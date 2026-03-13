@@ -1,0 +1,9 @@
+pdfplumber>=0.11.5
+pymupdf>=1.25.3
+pydantic>=2.10.6
+pydantic-settings>=2.8.1
+python-dateutil>=2.9.0.post0
+rapidfuzz>=3.12.1
+pandas>=2.2.3
+scikit-learn>=1.6.1
+tqdm>=4.67.1

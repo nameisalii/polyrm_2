@@ -1,0 +1,1849 @@
+[
+  {
+    "source_file": "doc_001.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_001.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_002.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_002.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_003.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_003.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_004.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_004.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_005.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_005.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_006.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_006.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_007.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_007.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_008.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_008.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_009.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_009.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_010.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_010.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_011.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_011.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_012.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_012.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_013.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_013.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_014.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_014.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_015.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_015.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_016.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_016.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_017.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_017.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_018.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_018.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_019.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_019.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_020.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_020.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_021.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_021.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_022.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_022.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_023.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_023.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_024.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_024.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_025.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_025.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_026.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_026.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_027.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_027.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_028.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_028.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_029.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_029.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_030.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_030.pdf",
+    "doc_type": "PACKING_LIST",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PACKING LIST"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_031.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_031.pdf",
+    "doc_type": "UNKNOWN",
+    "classification_confidence": 0.0,
+    "matched_keywords": [],
+    "num_pages": 4,
+    "has_text": false
+  },
+  {
+    "source_file": "doc_032.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_032.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_033.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_033.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_034.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_034.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_035.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_035.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_036.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_036.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_037.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_037.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_038.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_038.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_039.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_039.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_040.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_040.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_041.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_041.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_042.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_042.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_043.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_043.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_044.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_044.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_045.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_045.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_046.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_046.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_047.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_047.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_048.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_048.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_049.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_049.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_050.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_050.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_051.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_051.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_052.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_052.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_053.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_053.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_054.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_054.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_055.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_055.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_056.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_056.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_057.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_057.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_058.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_058.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_059.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_059.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_060.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_060.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_061.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_061.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_062.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_062.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_063.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_063.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_064.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_064.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_065.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_065.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_066.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_066.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_067.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_067.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_068.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_068.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_069.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_069.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_070.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_070.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_071.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_071.pdf",
+    "doc_type": "UNKNOWN",
+    "classification_confidence": 0.0,
+    "matched_keywords": [],
+    "num_pages": 4,
+    "has_text": false
+  },
+  {
+    "source_file": "doc_072.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_072.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_073.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_073.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_074.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_074.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_075.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_075.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_076.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_076.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_077.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_077.pdf",
+    "doc_type": "PURCHASE_REQUISITION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE REQUISITION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_078.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_078.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_079.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_079.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_080.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_080.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_081.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_081.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_082.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_082.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_083.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_083.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_084.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_084.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_085.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_085.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_086.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_086.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_087.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_087.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_088.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_088.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_089.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_089.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_090.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_090.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_091.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_091.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_092.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_092.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_093.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_093.pdf",
+    "doc_type": "GOODS_RECEIPT_NOTE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "GOODS RECEIPT NOTE",
+      "GRN #"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_094.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_094.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_095.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_095.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_096.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_096.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_097.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_097.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_098.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_098.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_099.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_099.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_100.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_100.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_101.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_101.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_102.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_102.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_103.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_103.pdf",
+    "doc_type": "PACKING_LIST",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PACKING LIST"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_104.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_104.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_105.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_105.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_106.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_106.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_107.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_107.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_108.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_108.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_109.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_109.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_110.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_110.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_111.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_111.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_112.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_112.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_113.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_113.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_114.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_114.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_115.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_115.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_116.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_116.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_117.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_117.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_118.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_118.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_119.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_119.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_120.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_120.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_121.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_121.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_122.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_122.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_123.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_123.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_124.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_124.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_125.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_125.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_126.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_126.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_127.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_127.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_128.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_128.pdf",
+    "doc_type": "GOODS_RECEIPT_NOTE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "GOODS RECEIPT NOTE",
+      "GRN #"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_129.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_129.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_130.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_130.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_131.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_131.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_132.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_132.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_133.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_133.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_134.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_134.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_135.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_135.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_136.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_136.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_137.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_137.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_138.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_138.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_139.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_139.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_140.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_140.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_141.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_141.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_142.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_142.pdf",
+    "doc_type": "PURCHASE_REQUISITION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE REQUISITION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_143.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_143.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_144.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_144.pdf",
+    "doc_type": "PACKING_LIST",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PACKING LIST"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_145.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_145.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_146.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_146.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_147.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_147.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_148.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_148.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_149.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_149.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_150.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_150.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_151.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_151.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_152.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_152.pdf",
+    "doc_type": "PACKING_LIST",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PACKING LIST"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_153.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_153.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_154.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_154.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "DELIVERY INSTRUCTION"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_155.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_155.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 2,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_156.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_156.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_157.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_157.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_158.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_158.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_159.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_159.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_160.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_160.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "PURCHASE ORDER"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  },
+  {
+    "source_file": "doc_161.pdf",
+    "file_path": "/Users/alinazarov/Downloads/polymr_assessment/documents/doc_161.pdf",
+    "doc_type": "TAX_INVOICE",
+    "classification_confidence": 1.0,
+    "matched_keywords": [
+      "TAX INVOICE",
+      "INVOICE FOR GOODS"
+    ],
+    "num_pages": 1,
+    "has_text": true
+  }
+]

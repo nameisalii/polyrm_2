@@ -1,0 +1,4694 @@
+[
+  {
+    "item_a": "70/68/2/140 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON TWT DYED YARN",
+    "confidence": 1.0,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 70/68/2",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_055.pdf",
+      "doc_055.pdf",
+      "doc_055.pdf"
+    ],
+    "example_sources_b": [
+      "doc_079.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/68/2/140 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED YARN"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.9,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 160/72",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "75/48/2/80 HB-TWT DYED",
+    "item_b": "75/48/2/80 HT-TWT DYED",
+    "confidence": 0.9,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 75/48/2",
+      "material: POLYESTER",
+      "yarn_type_compatible: TWT ~ T-TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_101.pdf"
+    ],
+    "example_sources_b": [
+      "doc_122.pdf"
+    ],
+    "original_descriptions_a": [
+      "75/48/2/80 HB-TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "75/48/2/80 HT-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/68/2/140 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON Z TWT",
+    "confidence": 0.85,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 70/68/2",
+      "material: NYLON",
+      "yarn_type: TWT"
+    ],
+    "example_sources_a": [
+      "doc_055.pdf",
+      "doc_055.pdf",
+      "doc_055.pdf"
+    ],
+    "example_sources_b": [
+      "doc_061.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/68/2/140 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 Z TWT NYLON"
+    ]
+  },
+  {
+    "item_a": "70/68/2/140 NYLON Z TWT",
+    "item_b": "70/68/2/140 NYLON TWT DYED YARN",
+    "confidence": 0.85,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 70/68/2",
+      "material: NYLON",
+      "yarn_type: TWT"
+    ],
+    "example_sources_a": [
+      "doc_061.pdf"
+    ],
+    "example_sources_b": [
+      "doc_079.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/68/2/140 Z TWT NYLON"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED YARN"
+    ]
+  },
+  {
+    "item_a": "80/34/1000 T-TWT GREY YARN",
+    "item_b": "80/34/600 T-TWT GREY YARN",
+    "confidence": 0.8,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (80/34), different twist",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_002.pdf",
+      "doc_044.pdf",
+      "doc_048.pdf"
+    ],
+    "example_sources_b": [
+      "doc_005.pdf",
+      "doc_020.pdf",
+      "doc_104.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34/1000 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "80/34/1000 T-TWT GREY YARN",
+    "item_b": "80/34/300 T-TWT GREY YARN",
+    "confidence": 0.8,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (80/34), different twist",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_002.pdf",
+      "doc_044.pdf",
+      "doc_048.pdf"
+    ],
+    "example_sources_b": [
+      "doc_120.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34/1000 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/34/300 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "70/2/80 NYLON TWT DYED",
+    "item_b": "70/2/140 NYLON TWT DYED",
+    "confidence": 0.8,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (70/2), different twist",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_004.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_072.pdf",
+      "doc_084.pdf",
+      "doc_105.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/2/140 IGST on Rs.192791.97 NYLON TWT DYED",
+      "70/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "80/34/600 T-TWT GREY YARN",
+    "item_b": "80/34/300 T-TWT GREY YARN",
+    "confidence": 0.8,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (80/34), different twist",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_005.pdf",
+      "doc_020.pdf",
+      "doc_104.pdf"
+    ],
+    "example_sources_b": [
+      "doc_120.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/34/300 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "85/34/300 T-TWT DYED YARN",
+    "item_b": "85/34/300 ROYAL WARP DYED",
+    "confidence": 0.8,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 85/34/300",
+      "material: POLYESTER",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_010.pdf"
+    ],
+    "example_sources_b": [
+      "doc_049.pdf",
+      "doc_158.pdf",
+      "doc_159.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/300 T-TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "85/34/300 ROYAL WARP DYED"
+    ]
+  },
+  {
+    "item_a": "80/72/2/0 GREY YARN",
+    "item_b": "80/72/2/350 TWT GREY YARN",
+    "confidence": 0.8,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 80/72/2",
+      "material: POLYESTER",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_047.pdf"
+    ],
+    "example_sources_b": [
+      "doc_118.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/72/2/0 FD-HIM GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/72/2/350 FDH-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "300/96 NIM RECYCLED POLYESTER YARN",
+    "item_b": "300/96 SD LIM RECYCLED",
+    "confidence": 0.7,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 300/96",
+      "material: POLYESTER"
+    ],
+    "example_sources_a": [
+      "doc_034.pdf"
+    ],
+    "example_sources_b": [
+      "doc_147.pdf",
+      "doc_148.pdf"
+    ],
+    "original_descriptions_a": [
+      "300/96 NIM RECYCLED POLYESTER YARN"
+    ],
+    "original_descriptions_b": [
+      "300/96 SD LIM RECYCLED"
+    ]
+  },
+  {
+    "item_a": "80/34/600 T-TWT GREY YARN",
+    "item_b": "85/34/600 T-TWT GREY YARN",
+    "confidence": 0.684,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 96%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_005.pdf",
+      "doc_020.pdf",
+      "doc_104.pdf"
+    ],
+    "example_sources_b": [
+      "doc_090.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "85/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "111/1/80 NYLON TWT DYED",
+    "item_b": "111/2/80 NYLON TWT DYED",
+    "confidence": 0.683,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 96%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_001.pdf",
+      "doc_001.pdf",
+      "doc_043.pdf"
+    ],
+    "example_sources_b": [
+      "doc_011.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/1/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "111/2/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/2/80 NYLON TWT DYED",
+    "item_b": "70/1/80 NYLON TWT DYED",
+    "confidence": 0.682,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 95%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_004.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_018.pdf",
+      "doc_078.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/1/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/2/80 NYLON TWT DYED",
+    "item_b": "40/2/80 NYLON TWT DYED",
+    "confidence": 0.682,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 95%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_004.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_043.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "40/2/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "80/34/600 T-TWT GREY YARN",
+    "item_b": "100/34/600 T-TWT GREY YARN",
+    "confidence": 0.676,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 94%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_005.pdf",
+      "doc_020.pdf",
+      "doc_104.pdf"
+    ],
+    "example_sources_b": [
+      "doc_016.pdf",
+      "doc_032.pdf",
+      "doc_082.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "100/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "70/68/2/140 NYLON TWT DYED",
+    "item_b": "70/2/140 NYLON TWT DYED",
+    "confidence": 0.676,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 94%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_055.pdf",
+      "doc_055.pdf",
+      "doc_055.pdf"
+    ],
+    "example_sources_b": [
+      "doc_072.pdf",
+      "doc_084.pdf",
+      "doc_105.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/68/2/140 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/2/140 IGST on Rs.192791.97 NYLON TWT DYED",
+      "70/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "85/34/600 T-TWT GREY YARN",
+    "item_b": "80/34/300 T-TWT GREY YARN",
+    "confidence": 0.668,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 92%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_090.pdf"
+    ],
+    "example_sources_b": [
+      "doc_120.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/34/300 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "70/1/80 NYLON TWT DYED",
+    "item_b": "40/2/80 NYLON TWT DYED",
+    "confidence": 0.664,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 91%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_018.pdf",
+      "doc_078.pdf"
+    ],
+    "example_sources_b": [
+      "doc_043.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/1/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "40/2/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "80/34/1000 T-TWT GREY YARN",
+    "item_b": "85/34/600 T-TWT GREY YARN",
+    "confidence": 0.661,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 90%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_002.pdf",
+      "doc_044.pdf",
+      "doc_048.pdf"
+    ],
+    "example_sources_b": [
+      "doc_090.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34/1000 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "85/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "100/34/600 T-TWT GREY YARN",
+    "item_b": "85/34/600 T-TWT GREY YARN",
+    "confidence": 0.661,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 90%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_016.pdf",
+      "doc_032.pdf",
+      "doc_082.pdf"
+    ],
+    "example_sources_b": [
+      "doc_090.pdf"
+    ],
+    "original_descriptions_a": [
+      "100/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "85/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "100/34/600 T-TWT GREY YARN",
+    "item_b": "80/34/300 T-TWT GREY YARN",
+    "confidence": 0.661,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 90%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_016.pdf",
+      "doc_032.pdf",
+      "doc_082.pdf"
+    ],
+    "example_sources_b": [
+      "doc_120.pdf"
+    ],
+    "original_descriptions_a": [
+      "100/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/34/300 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "111/1/80 NYLON TWT DYED",
+    "item_b": "70/1/80 NYLON TWT DYED",
+    "confidence": 0.656,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 89%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_001.pdf",
+      "doc_001.pdf",
+      "doc_043.pdf"
+    ],
+    "example_sources_b": [
+      "doc_018.pdf",
+      "doc_078.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/1/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/1/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/2/80 NYLON TWT DYED",
+    "item_b": "111/2/80 NYLON TWT DYED",
+    "confidence": 0.656,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 89%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_004.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_011.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "111/2/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "111/2/80 NYLON TWT DYED",
+    "item_b": "40/2/80 NYLON TWT DYED",
+    "confidence": 0.656,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 89%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_011.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_043.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "40/2/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/1/80 NYLON TWT DYED",
+    "item_b": "70/2/140 NYLON TWT DYED",
+    "confidence": 0.656,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 89%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_018.pdf",
+      "doc_078.pdf"
+    ],
+    "example_sources_b": [
+      "doc_072.pdf",
+      "doc_084.pdf",
+      "doc_105.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/1/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/2/140 IGST on Rs.192791.97 NYLON TWT DYED",
+      "70/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "40/2/80 NYLON TWT DYED",
+    "item_b": "70/2/140 NYLON TWT DYED",
+    "confidence": 0.656,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 89%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_043.pdf"
+    ],
+    "example_sources_b": [
+      "doc_072.pdf",
+      "doc_084.pdf",
+      "doc_105.pdf"
+    ],
+    "original_descriptions_a": [
+      "40/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/2/140 IGST on Rs.192791.97 NYLON TWT DYED",
+      "70/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "110/48/2/80 HB-TWT DYED",
+    "item_b": "75/48/2/80 HB-TWT DYED",
+    "confidence": 0.656,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 89%",
+      "material: POLYESTER",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_062.pdf"
+    ],
+    "example_sources_b": [
+      "doc_101.pdf"
+    ],
+    "original_descriptions_a": [
+      "110/48/2/80 HB-TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "75/48/2/80 HB-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "80/34/1000 T-TWT GREY YARN",
+    "item_b": "100/34/600 T-TWT GREY YARN",
+    "confidence": 0.654,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 88%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_002.pdf",
+      "doc_044.pdf",
+      "doc_048.pdf"
+    ],
+    "example_sources_b": [
+      "doc_016.pdf",
+      "doc_032.pdf",
+      "doc_082.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34/1000 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "100/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "110/36 CATEX DYED YARN",
+    "item_b": "110/36 SD POY",
+    "confidence": 0.65,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 110/36",
+      "material: POLYESTER"
+    ],
+    "example_sources_a": [
+      "doc_006.pdf",
+      "doc_130.pdf",
+      "doc_132.pdf"
+    ],
+    "example_sources_b": [
+      "doc_150.pdf"
+    ],
+    "original_descriptions_a": [
+      "110/36 CATEX DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "110/36 SD POY"
+    ]
+  },
+  {
+    "item_a": "85/34/300 T-TWT DYED YARN",
+    "item_b": "85/34/600 T-TWT GREY YARN",
+    "confidence": 0.65,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (85/34), different twist",
+      "material: POLYESTER",
+      "yarn_type: T-TWT"
+    ],
+    "example_sources_a": [
+      "doc_010.pdf"
+    ],
+    "example_sources_b": [
+      "doc_090.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/300 T-TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "85/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "20/80 DYED YARN",
+    "item_b": "20/80 GREY YARN",
+    "confidence": 0.65,
+    "match_type": "component",
+    "signals": [
+      "spec_exact: 20/80",
+      "material: POLYESTER"
+    ],
+    "example_sources_a": [
+      "doc_024.pdf",
+      "doc_040.pdf",
+      "doc_065.pdf"
+    ],
+    "example_sources_b": [
+      "doc_033.pdf",
+      "doc_035.pdf",
+      "doc_086.pdf"
+    ],
+    "original_descriptions_a": [
+      "20/80 SPD-POLY-AC DYED YARN DARK+10 - BLACK"
+    ],
+    "original_descriptions_b": [
+      "20/80 SPD-POLY-AC GREY YARN LIGHT - WHITE",
+      "20/80 SPD-POLY-AC GREY YARN . - RAW WHITE"
+    ]
+  },
+  {
+    "item_a": "70/2/80 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON TWT DYED",
+    "confidence": 0.65,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 88%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_004.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_055.pdf",
+      "doc_055.pdf",
+      "doc_055.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/68/2/140 NYLON TWT DYED YARN",
+    "item_b": "111/1/80 NYLON TWT DYED",
+    "confidence": 0.65,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54025100",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_079.pdf"
+    ],
+    "example_sources_b": [
+      "doc_001.pdf",
+      "doc_001.pdf",
+      "doc_043.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/68/2/140 NYLON TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "111/1/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/68/2/140 NYLON TWT DYED YARN",
+    "item_b": "70/2/80 NYLON TWT DYED",
+    "confidence": 0.65,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54025100",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_079.pdf"
+    ],
+    "example_sources_b": [
+      "doc_004.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/68/2/140 NYLON TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "70/2/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/2/140 NYLON TWT DYED",
+    "item_b": "70/2/140",
+    "confidence": 0.65,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54025100",
+      "spec_exact: 70/2/140"
+    ],
+    "example_sources_a": [
+      "doc_072.pdf",
+      "doc_084.pdf",
+      "doc_105.pdf"
+    ],
+    "example_sources_b": [
+      "doc_109.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/2/140 IGST on Rs.192791.97 NYLON TWT DYED",
+      "70/2/140 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/2/140 ROUNDED NYLON OFF TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/68/2/140 NYLON TWT DYED",
+    "item_b": "111/1/80 NYLON TWT DYED",
+    "confidence": 0.65,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54025100",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_055.pdf",
+      "doc_055.pdf",
+      "doc_055.pdf"
+    ],
+    "example_sources_b": [
+      "doc_001.pdf",
+      "doc_001.pdf",
+      "doc_043.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/68/2/140 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "111/1/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "110/72 SUPER KARIZMA",
+    "item_b": "110/72/0 SUPER CATLON",
+    "confidence": 0.65,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024700",
+      "spec_partial: same denier/filament (110/72), different twist",
+      "material: POLYESTER"
+    ],
+    "example_sources_a": [
+      "doc_081.pdf"
+    ],
+    "example_sources_b": [
+      "doc_021.pdf"
+    ],
+    "original_descriptions_a": [
+      "110/72 SUPER KARIZMA"
+    ],
+    "original_descriptions_b": [
+      "110/72/0 SUPER CATLON"
+    ]
+  },
+  {
+    "item_a": "85/34/300 T-TWT DYED YARN",
+    "item_b": "75/48/2/80 HT-TWT DYED",
+    "confidence": 0.65,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54025210",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_010.pdf"
+    ],
+    "example_sources_b": [
+      "doc_122.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/300 T-TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "75/48/2/80 HT-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "200/48/350 T-TWT GREY YARN",
+    "item_b": "80/34/300 T-TWT GREY YARN",
+    "confidence": 0.645,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 86%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_003.pdf"
+    ],
+    "example_sources_b": [
+      "doc_120.pdf"
+    ],
+    "original_descriptions_a": [
+      "200/48/350 T-TWT GREY YARN DIRECT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/34/300 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "70/2/140 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON TWT DYED YARN",
+    "confidence": 0.641,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 85%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_072.pdf",
+      "doc_084.pdf",
+      "doc_105.pdf"
+    ],
+    "example_sources_b": [
+      "doc_079.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/2/140 IGST on Rs.192791.97 NYLON TWT DYED",
+      "70/2/140 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED YARN"
+    ]
+  },
+  {
+    "item_a": "111/1/80 NYLON TWT DYED",
+    "item_b": "70/2/80 NYLON TWT DYED",
+    "confidence": 0.638,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 84%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_001.pdf",
+      "doc_001.pdf",
+      "doc_043.pdf"
+    ],
+    "example_sources_b": [
+      "doc_004.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/1/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/2/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "111/1/80 NYLON TWT DYED",
+    "item_b": "40/2/80 NYLON TWT DYED",
+    "confidence": 0.638,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 84%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_001.pdf",
+      "doc_001.pdf",
+      "doc_043.pdf"
+    ],
+    "example_sources_b": [
+      "doc_043.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/1/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "40/2/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "200/48/350 T-TWT GREY YARN",
+    "item_b": "100/34/600 T-TWT GREY YARN",
+    "confidence": 0.638,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 85%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_003.pdf"
+    ],
+    "example_sources_b": [
+      "doc_016.pdf",
+      "doc_032.pdf",
+      "doc_082.pdf"
+    ],
+    "original_descriptions_a": [
+      "200/48/350 T-TWT GREY YARN DIRECT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "100/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "111/2/80 NYLON TWT DYED",
+    "item_b": "70/1/80 NYLON TWT DYED",
+    "confidence": 0.638,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 84%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_011.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_018.pdf",
+      "doc_078.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/1/80 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "70/1/80 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON TWT DYED",
+    "confidence": 0.633,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 83%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_018.pdf",
+      "doc_078.pdf"
+    ],
+    "example_sources_b": [
+      "doc_055.pdf",
+      "doc_055.pdf",
+      "doc_055.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/1/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "40/2/80 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON TWT DYED",
+    "confidence": 0.633,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 83%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_043.pdf"
+    ],
+    "example_sources_b": [
+      "doc_055.pdf",
+      "doc_055.pdf",
+      "doc_055.pdf"
+    ],
+    "original_descriptions_a": [
+      "40/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "111/2/80 NYLON TWT DYED",
+    "item_b": "70/2/140 NYLON TWT DYED",
+    "confidence": 0.63,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 83%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_011.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_072.pdf",
+      "doc_084.pdf",
+      "doc_105.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/2/140 IGST on Rs.192791.97 NYLON TWT DYED",
+      "70/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "200/48/350 T-TWT GREY YARN",
+    "item_b": "80/34/600 T-TWT GREY YARN",
+    "confidence": 0.629,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 82%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_003.pdf"
+    ],
+    "example_sources_b": [
+      "doc_005.pdf",
+      "doc_020.pdf",
+      "doc_104.pdf"
+    ],
+    "original_descriptions_a": [
+      "200/48/350 T-TWT GREY YARN DIRECT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "80/34/1000 T-TWT GREY YARN",
+    "item_b": "200/48/350 T-TWT GREY YARN",
+    "confidence": 0.623,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 81%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_002.pdf",
+      "doc_044.pdf",
+      "doc_048.pdf"
+    ],
+    "example_sources_b": [
+      "doc_003.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34/1000 T-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "200/48/350 T-TWT GREY YARN DIRECT - WHITE"
+    ]
+  },
+  {
+    "item_a": "75/34/2/100 HB-TWT DYED YARN",
+    "item_b": "75/48/2/80 HB-TWT DYED",
+    "confidence": 0.62,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_026.pdf"
+    ],
+    "example_sources_b": [
+      "doc_101.pdf"
+    ],
+    "original_descriptions_a": [
+      "75/34/2/100 POLY.HB TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "75/48/2/80 HB-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "200/48/350 T-TWT GREY YARN",
+    "item_b": "85/34/600 T-TWT GREY YARN",
+    "confidence": 0.614,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 78%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_003.pdf"
+    ],
+    "example_sources_b": [
+      "doc_090.pdf"
+    ],
+    "original_descriptions_a": [
+      "200/48/350 T-TWT GREY YARN DIRECT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "85/34/600 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "111/1/80 NYLON TWT DYED",
+    "item_b": "70/2/140 NYLON TWT DYED",
+    "confidence": 0.613,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 78%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_001.pdf",
+      "doc_001.pdf",
+      "doc_043.pdf"
+    ],
+    "example_sources_b": [
+      "doc_072.pdf",
+      "doc_084.pdf",
+      "doc_105.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/1/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/2/140 IGST on Rs.192791.97 NYLON TWT DYED",
+      "70/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "85/34/300 T-TWT DYED YARN",
+    "item_b": "155/34/350 T-TWT DYED",
+    "confidence": 0.613,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 78%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_010.pdf"
+    ],
+    "example_sources_b": [
+      "doc_046.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/300 T-TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "155/34/350 T-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "111/2/80 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON TWT DYED",
+    "confidence": 0.61,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 78%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_011.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_055.pdf",
+      "doc_055.pdf",
+      "doc_055.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED"
+    ]
+  },
+  {
+    "item_a": "126/72 FD POY",
+    "item_b": "123/72 FD POY",
+    "confidence": 0.609,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 92%",
+      "material: POLYESTER",
+      "yarn_type: FD POY"
+    ],
+    "example_sources_a": [
+      "doc_017.pdf"
+    ],
+    "example_sources_b": [
+      "doc_150.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/72 FD POY"
+    ],
+    "original_descriptions_b": [
+      "123/72 FD POY"
+    ]
+  },
+  {
+    "item_a": "70/1/80 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON TWT DYED YARN",
+    "confidence": 0.602,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 75%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_018.pdf",
+      "doc_078.pdf"
+    ],
+    "example_sources_b": [
+      "doc_079.pdf"
+    ],
+    "original_descriptions_a": [
+      "70/1/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED YARN"
+    ]
+  },
+  {
+    "item_a": "40/2/80 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON TWT DYED YARN",
+    "confidence": 0.602,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 75%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_043.pdf"
+    ],
+    "example_sources_b": [
+      "doc_079.pdf"
+    ],
+    "original_descriptions_a": [
+      "40/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED YARN"
+    ]
+  },
+  {
+    "item_a": "85/34/300 T-TWT DYED YARN",
+    "item_b": "85/34/0 T-DYED YARN",
+    "confidence": 0.6,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (85/34), different twist",
+      "material: POLYESTER",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_010.pdf"
+    ],
+    "example_sources_b": [
+      "doc_038.pdf",
+      "doc_050.pdf",
+      "doc_121.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/300 T-TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "85/34/0 T-DYED YARN",
+      "85/34/0 T- DYED YARN"
+    ]
+  },
+  {
+    "item_a": "85/34/0 T-DYED YARN",
+    "item_b": "85/34/300 ROYAL WARP DYED",
+    "confidence": 0.6,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (85/34), different twist",
+      "material: POLYESTER",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_038.pdf",
+      "doc_050.pdf",
+      "doc_121.pdf"
+    ],
+    "example_sources_b": [
+      "doc_049.pdf",
+      "doc_158.pdf",
+      "doc_159.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/0 T-DYED YARN",
+      "85/34/0 T- DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "85/34/300 ROYAL WARP DYED"
+    ]
+  },
+  {
+    "item_a": "155/34/350 T-TWT DYED",
+    "item_b": "155/34/0 T-DYED YARN",
+    "confidence": 0.6,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (155/34), different twist",
+      "material: POLYESTER",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_046.pdf"
+    ],
+    "example_sources_b": [
+      "doc_089.pdf",
+      "doc_089.pdf",
+      "doc_121.pdf"
+    ],
+    "original_descriptions_a": [
+      "155/34/350 T-TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "155/34/0 T-DYED YARN",
+      "155/34/0 T- DYED YARN"
+    ]
+  },
+  {
+    "item_a": "80/72/2/0 GREY YARN",
+    "item_b": "80/72/0 GREY YARN",
+    "confidence": 0.6,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (80/72), different twist",
+      "material: POLYESTER",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_047.pdf"
+    ],
+    "example_sources_b": [
+      "doc_063.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/72/2/0 FD-HIM GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/72/0/W-FD-HIM GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "80/72/0 GREY YARN",
+    "item_b": "80/72/2/350 TWT GREY YARN",
+    "confidence": 0.6,
+    "match_type": "component",
+    "signals": [
+      "spec_partial: same denier/filament (80/72), different twist",
+      "material: POLYESTER",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_063.pdf"
+    ],
+    "example_sources_b": [
+      "doc_118.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/72/0/W-FD-HIM GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/72/2/350 FDH-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "108/36 POY",
+    "confidence": 0.6,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 90%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "108/36 POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "250/48 POY",
+    "confidence": 0.6,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 90%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "250/48 POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.6,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 90%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "126/34 POY",
+    "item_b": "126/48 POY",
+    "confidence": 0.6,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 90%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/34 POY"
+    ],
+    "original_descriptions_b": [
+      "126/48 POY"
+    ]
+  },
+  {
+    "item_a": "126/34 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.6,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 90%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/34 POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "155/34/350 T-TWT DYED",
+    "item_b": "75/48/2/80 HT-TWT DYED",
+    "confidence": 0.598,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 74%",
+      "material: POLYESTER",
+      "yarn_type: T-TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_046.pdf"
+    ],
+    "example_sources_b": [
+      "doc_122.pdf"
+    ],
+    "original_descriptions_a": [
+      "155/34/350 T-TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "75/48/2/80 HT-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "75/34/2/100 HB-TWT DYED YARN",
+    "item_b": "110/48/2/80 HB-TWT DYED",
+    "confidence": 0.582,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 71%",
+      "material: POLYESTER",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_026.pdf"
+    ],
+    "example_sources_b": [
+      "doc_062.pdf"
+    ],
+    "original_descriptions_a": [
+      "75/34/2/100 POLY.HB TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "110/48/2/80 HB-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "111/2/80 NYLON TWT DYED",
+    "item_b": "70/68/2/140 NYLON TWT DYED YARN",
+    "confidence": 0.581,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 70%",
+      "material: NYLON",
+      "yarn_type: TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_011.pdf",
+      "doc_014.pdf",
+      "doc_014.pdf"
+    ],
+    "example_sources_b": [
+      "doc_079.pdf"
+    ],
+    "original_descriptions_a": [
+      "111/2/80 NYLON TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "70/68/2/140 NYLON TWT DYED YARN"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "160/72 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "250/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "250/34 POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "160/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_069.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "160/36 BRT CATONIC POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "122/72 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "122/72 POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "108/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "108/36 POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "250/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "250/48 POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "126/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "126/34 POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "340/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "340/48 POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "126/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "126/48 POY"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "265/48 SD POY",
+    "item_b": "110/36 SD POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_008.pdf",
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "example_sources_b": [
+      "doc_150.pdf"
+    ],
+    "original_descriptions_a": [
+      "265/48 SD POY"
+    ],
+    "original_descriptions_b": [
+      "110/36 SD POY"
+    ]
+  },
+  {
+    "item_a": "265/48 SD POY",
+    "item_b": "80/34 SD POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_008.pdf",
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "original_descriptions_a": [
+      "265/48 SD POY"
+    ],
+    "original_descriptions_b": [
+      "80/34 SD POY"
+    ]
+  },
+  {
+    "item_a": "265/48 SD POY",
+    "item_b": "162/34 SD POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_008.pdf",
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_128.pdf"
+    ],
+    "original_descriptions_a": [
+      "265/48 SD POY"
+    ],
+    "original_descriptions_b": [
+      "162/34 SD POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "250/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "250/34 POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "108/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "108/36 POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "250/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "250/48 POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "126/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "126/34 POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "340/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "340/48 POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "126/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "126/48 POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "160/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_069.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "160/36 BRT CATONIC POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "122/72 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "122/72 POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "108/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "108/36 POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "340/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "340/48 POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "126/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "126/48 POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "110/36 SD POY",
+    "item_b": "230/48 SD POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_150.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "110/36 SD POY"
+    ],
+    "original_descriptions_b": [
+      "230/48 SD POY"
+    ]
+  },
+  {
+    "item_a": "110/36 SD POY",
+    "item_b": "162/34 SD POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_150.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_128.pdf"
+    ],
+    "original_descriptions_a": [
+      "110/36 SD POY"
+    ],
+    "original_descriptions_b": [
+      "162/34 SD POY"
+    ]
+  },
+  {
+    "item_a": "110/36 SD POY",
+    "item_b": "160/48 SD POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_150.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "110/36 SD POY"
+    ],
+    "original_descriptions_b": [
+      "160/48 SD POY"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "122/72 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "122/72 POY"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "250/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "250/48 POY"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "340/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "340/48 POY"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "126/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "126/48 POY"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "122/72 POY",
+    "item_b": "108/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "122/72 POY"
+    ],
+    "original_descriptions_b": [
+      "108/36 POY"
+    ]
+  },
+  {
+    "item_a": "122/72 POY",
+    "item_b": "250/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "122/72 POY"
+    ],
+    "original_descriptions_b": [
+      "250/48 POY"
+    ]
+  },
+  {
+    "item_a": "122/72 POY",
+    "item_b": "126/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "122/72 POY"
+    ],
+    "original_descriptions_b": [
+      "126/34 POY"
+    ]
+  },
+  {
+    "item_a": "122/72 POY",
+    "item_b": "340/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "122/72 POY"
+    ],
+    "original_descriptions_b": [
+      "340/48 POY"
+    ]
+  },
+  {
+    "item_a": "122/72 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "122/72 POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "122/72 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "122/72 POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "122/72 POY",
+    "item_b": "126/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "122/72 POY"
+    ],
+    "original_descriptions_b": [
+      "126/48 POY"
+    ]
+  },
+  {
+    "item_a": "122/72 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "122/72 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "122/72 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "122/72 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "108/36 POY",
+    "item_b": "250/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "108/36 POY"
+    ],
+    "original_descriptions_b": [
+      "250/48 POY"
+    ]
+  },
+  {
+    "item_a": "108/36 POY",
+    "item_b": "126/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "108/36 POY"
+    ],
+    "original_descriptions_b": [
+      "126/34 POY"
+    ]
+  },
+  {
+    "item_a": "108/36 POY",
+    "item_b": "340/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "108/36 POY"
+    ],
+    "original_descriptions_b": [
+      "340/48 POY"
+    ]
+  },
+  {
+    "item_a": "108/36 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "108/36 POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "108/36 POY",
+    "item_b": "126/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "108/36 POY"
+    ],
+    "original_descriptions_b": [
+      "126/48 POY"
+    ]
+  },
+  {
+    "item_a": "108/36 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "108/36 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "250/48 POY",
+    "item_b": "126/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/48 POY"
+    ],
+    "original_descriptions_b": [
+      "126/34 POY"
+    ]
+  },
+  {
+    "item_a": "250/48 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/48 POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "250/48 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/48 POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "250/48 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/48 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "126/34 POY",
+    "item_b": "340/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/34 POY"
+    ],
+    "original_descriptions_b": [
+      "340/48 POY"
+    ]
+  },
+  {
+    "item_a": "126/34 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/34 POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "126/34 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/34 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "126/34 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/34 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "340/48 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "340/48 POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "340/48 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "340/48 POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "340/48 POY",
+    "item_b": "126/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "340/48 POY"
+    ],
+    "original_descriptions_b": [
+      "126/48 POY"
+    ]
+  },
+  {
+    "item_a": "340/48 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "340/48 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "340/48 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "340/48 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "230/48 SD POY",
+    "item_b": "162/34 SD POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_128.pdf"
+    ],
+    "original_descriptions_a": [
+      "230/48 SD POY"
+    ],
+    "original_descriptions_b": [
+      "162/34 SD POY"
+    ]
+  },
+  {
+    "item_a": "165/34 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "165/34 POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "165/34 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "165/34 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "165/34 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "165/34 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "80/36 POY",
+    "item_b": "126/48 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/36 POY"
+    ],
+    "original_descriptions_b": [
+      "126/48 POY"
+    ]
+  },
+  {
+    "item_a": "80/36 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/36 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "123/72 FD POY",
+    "item_b": "250/144 FD POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: FD POY"
+    ],
+    "example_sources_a": [
+      "doc_150.pdf"
+    ],
+    "example_sources_b": [
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "123/72 FD POY"
+    ],
+    "original_descriptions_b": [
+      "250/144 FD POY"
+    ]
+  },
+  {
+    "item_a": "250/144 FD POY",
+    "item_b": "126/72 FD POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: FD POY"
+    ],
+    "example_sources_a": [
+      "doc_137.pdf"
+    ],
+    "example_sources_b": [
+      "doc_017.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/144 FD POY"
+    ],
+    "original_descriptions_b": [
+      "126/72 FD POY"
+    ]
+  },
+  {
+    "item_a": "126/48 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/48 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "126/48 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/48 POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "250/36 POY",
+    "item_b": "160/72 BRT POY",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54024600",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_149.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/36 SD RECYCLED POY"
+    ],
+    "original_descriptions_b": [
+      "160/72 BRT POY"
+    ]
+  },
+  {
+    "item_a": "155/34/350 T-TWT DYED",
+    "item_b": "75/48/2/80 HB-TWT DYED",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54025210",
+      "material: POLYESTER",
+      "yarn_type_compatible: T-TWT ~ TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_046.pdf"
+    ],
+    "example_sources_b": [
+      "doc_101.pdf"
+    ],
+    "original_descriptions_a": [
+      "155/34/350 T-TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "75/48/2/80 HB-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "155/34/350 T-TWT DYED",
+    "item_b": "110/48/2/80 HB-TWT DYED",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54025210",
+      "material: POLYESTER",
+      "yarn_type_compatible: T-TWT ~ TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_046.pdf"
+    ],
+    "example_sources_b": [
+      "doc_062.pdf"
+    ],
+    "original_descriptions_a": [
+      "155/34/350 T-TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "110/48/2/80 HB-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "85/34/300 T-TWT DYED YARN",
+    "item_b": "75/48/2/80 HB-TWT DYED",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54025210",
+      "material: POLYESTER",
+      "yarn_type_compatible: T-TWT ~ TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_010.pdf"
+    ],
+    "example_sources_b": [
+      "doc_101.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/300 T-TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "75/48/2/80 HB-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "85/34/300 T-TWT DYED YARN",
+    "item_b": "110/48/2/80 HB-TWT DYED",
+    "confidence": 0.58,
+    "match_type": "hsn+component",
+    "signals": [
+      "same_hsn: 54025210",
+      "material: POLYESTER",
+      "yarn_type_compatible: T-TWT ~ TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_010.pdf"
+    ],
+    "example_sources_b": [
+      "doc_062.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/300 T-TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "110/48/2/80 HB-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "265/48 SD POY",
+    "item_b": "160/48 SD POY",
+    "confidence": 0.578,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 85%",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_008.pdf",
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "265/48 SD POY"
+    ],
+    "original_descriptions_b": [
+      "160/48 SD POY"
+    ]
+  },
+  {
+    "item_a": "265/48 SD POY",
+    "item_b": "230/48 SD POY",
+    "confidence": 0.578,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 85%",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_008.pdf",
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "265/48 SD POY"
+    ],
+    "original_descriptions_b": [
+      "230/48 SD POY"
+    ]
+  },
+  {
+    "item_a": "110/48/2/80 HB-TWT DYED",
+    "item_b": "75/48/2/80 HT-TWT DYED",
+    "confidence": 0.578,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 84%",
+      "material: POLYESTER",
+      "yarn_type_compatible: TWT ~ T-TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_062.pdf"
+    ],
+    "example_sources_b": [
+      "doc_122.pdf"
+    ],
+    "original_descriptions_a": [
+      "110/48/2/80 HB-TWT DYED"
+    ],
+    "original_descriptions_b": [
+      "75/48/2/80 HT-TWT DYED"
+    ]
+  },
+  {
+    "item_a": "162/34 SD POY",
+    "item_b": "160/48 SD POY",
+    "confidence": 0.578,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 85%",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_128.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "162/34 SD POY"
+    ],
+    "original_descriptions_b": [
+      "160/48 SD POY"
+    ]
+  },
+  {
+    "item_a": "160/48 SD POY",
+    "item_b": "230/48 SD POY",
+    "confidence": 0.578,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 85%",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/48 SD POY"
+    ],
+    "original_descriptions_b": [
+      "230/48 SD POY"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.577,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 84%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "108/36 POY",
+    "item_b": "80/36 POY",
+    "confidence": 0.577,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 84%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "108/36 POY"
+    ],
+    "original_descriptions_b": [
+      "80/36 POY"
+    ]
+  },
+  {
+    "item_a": "80/36 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.577,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 84%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/36 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "85/24 NYLON POY",
+    "item_b": "120/24 NYLON POY",
+    "confidence": 0.575,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 84%",
+      "material: NYLON",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_025.pdf",
+      "doc_083.pdf"
+    ],
+    "example_sources_b": [
+      "doc_113.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/24 NYLON POY",
+      "85/24 DOPE DYED BLACK NYLON POY"
+    ],
+    "original_descriptions_b": [
+      "120/24 NYLON POY"
+    ]
+  },
+  {
+    "item_a": "85/34/300 T-TWT DYED YARN",
+    "item_b": "75/34/2/100 HB-TWT DYED YARN",
+    "confidence": 0.572,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 83%",
+      "material: POLYESTER",
+      "yarn_type_compatible: T-TWT ~ TWT",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_010.pdf"
+    ],
+    "example_sources_b": [
+      "doc_026.pdf"
+    ],
+    "original_descriptions_a": [
+      "85/34/300 T-TWT DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "75/34/2/100 POLY.HB TWT DYED YARN"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "160/36 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_069.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "160/36 BRT CATONIC POY"
+    ]
+  },
+  {
+    "item_a": "160/72 POY",
+    "item_b": "122/72 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf",
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_131.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/72 SD CATONIC POY",
+      "160/72 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "122/72 POY"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "126/34 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "126/34 POY"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "160/36 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_069.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "160/36 BRT CATONIC POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "126/34 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_093.pdf",
+      "doc_129.pdf",
+      "doc_137.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "126/34 POY"
+    ]
+  },
+  {
+    "item_a": "250/34 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_129.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/34 POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "162/34 SD POY",
+    "item_b": "80/34 SD POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_119.pdf",
+      "doc_128.pdf"
+    ],
+    "example_sources_b": [
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "original_descriptions_a": [
+      "162/34 SD POY"
+    ],
+    "original_descriptions_b": [
+      "80/34 SD POY"
+    ]
+  },
+  {
+    "item_a": "80/34 SD POY",
+    "item_b": "160/48 SD POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34 SD POY"
+    ],
+    "original_descriptions_b": [
+      "160/48 SD POY"
+    ]
+  },
+  {
+    "item_a": "80/34 SD POY",
+    "item_b": "230/48 SD POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34 SD POY"
+    ],
+    "original_descriptions_b": [
+      "230/48 SD POY"
+    ]
+  },
+  {
+    "item_a": "80/34 SD POY",
+    "item_b": "110/36 SD POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: SD POY"
+    ],
+    "example_sources_a": [
+      "doc_077.pdf",
+      "doc_131.pdf"
+    ],
+    "example_sources_b": [
+      "doc_150.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/34 SD POY"
+    ],
+    "original_descriptions_b": [
+      "110/36 SD POY"
+    ]
+  },
+  {
+    "item_a": "155/34/0 T-DYED YARN",
+    "item_b": "150/34/0 T-DYED YARN",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 95%",
+      "material: POLYESTER",
+      "process: DYED"
+    ],
+    "example_sources_a": [
+      "doc_089.pdf",
+      "doc_089.pdf",
+      "doc_121.pdf"
+    ],
+    "example_sources_b": [
+      "doc_089.pdf"
+    ],
+    "original_descriptions_a": [
+      "155/34/0 T-DYED YARN",
+      "155/34/0 T- DYED YARN"
+    ],
+    "original_descriptions_b": [
+      "150/34/0 T-DYED YARN"
+    ]
+  },
+  {
+    "item_a": "80/72/2/350 TWT GREY YARN",
+    "item_b": "80/34/300 T-TWT GREY YARN",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type_compatible: TWT ~ T-TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_118.pdf"
+    ],
+    "example_sources_b": [
+      "doc_120.pdf"
+    ],
+    "original_descriptions_a": [
+      "80/72/2/350 FDH-TWT GREY YARN LIGHT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/34/300 T-TWT GREY YARN LIGHT - WHITE"
+    ]
+  },
+  {
+    "item_a": "505/96 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_126.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "505/96 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "108/36 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "108/36 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "126/48 POY",
+    "item_b": "165/34 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/48 POY"
+    ],
+    "original_descriptions_b": [
+      "165/34 POY"
+    ]
+  },
+  {
+    "item_a": "126/48 POY",
+    "item_b": "250/48 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_137.pdf",
+      "doc_142.pdf"
+    ],
+    "example_sources_b": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "126/48 POY"
+    ],
+    "original_descriptions_b": [
+      "250/48 POY"
+    ]
+  },
+  {
+    "item_a": "250/48 POY",
+    "item_b": "250/36 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_149.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/48 POY"
+    ],
+    "original_descriptions_b": [
+      "250/36 SD RECYCLED POY"
+    ]
+  },
+  {
+    "item_a": "250/48 POY",
+    "item_b": "340/48 POY",
+    "confidence": 0.56,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 80%",
+      "material: POLYESTER",
+      "yarn_type: POY"
+    ],
+    "example_sources_a": [
+      "doc_129.pdf",
+      "doc_142.pdf",
+      "doc_160.pdf"
+    ],
+    "example_sources_b": [
+      "doc_160.pdf"
+    ],
+    "original_descriptions_a": [
+      "250/48 POY"
+    ],
+    "original_descriptions_b": [
+      "340/48 POY"
+    ]
+  },
+  {
+    "item_a": "200/48/350 T-TWT GREY YARN",
+    "item_b": "80/72/2/350 TWT GREY YARN",
+    "confidence": 0.554,
+    "match_type": "fuzzy+component",
+    "signals": [
+      "fuzzy_score: 78%",
+      "material: POLYESTER",
+      "yarn_type_compatible: T-TWT ~ TWT",
+      "process: GREY"
+    ],
+    "example_sources_a": [
+      "doc_003.pdf"
+    ],
+    "example_sources_b": [
+      "doc_118.pdf"
+    ],
+    "original_descriptions_a": [
+      "200/48/350 T-TWT GREY YARN DIRECT - WHITE"
+    ],
+    "original_descriptions_b": [
+      "80/72/2/350 FDH-TWT GREY YARN LIGHT - WHITE"
+    ]
+  }
+]

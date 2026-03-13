@@ -1,0 +1,4784 @@
+[
+  {
+    "source_file": "doc_001.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3683,
+    "doc_number": "P29129",
+    "doc_date": "2026-01-04",
+    "counterparty": "WHITE ROSE TEXTILES LLP",
+    "buyer_order_ref": "PO 84/26.11.25",
+    "order_date": "2025-12-10",
+    "broker": "HO",
+    "due_date": "2026-01-19",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02982",
+        "item_description_original": "111/1/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60092",
+        "shade": "BLACK",
+        "quantity": 5.0,
+        "uom": "KGS",
+        "unit_price": 360.0,
+        "amount": 35996.4,
+        "raw_line": "1 DCN02982 111/1/80 NYLON TWT DYED YAR54N025100NL60092 DIRVNY7239 [BLACK] R5M039091.09090049K2GS 360.00 35996.40"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "DCN02983",
+        "item_description_original": "111/1/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60061",
+        "shade": "BLACK",
+        "quantity": 1.0,
+        "uom": "KGS",
+        "unit_price": 360.0,
+        "amount": 79599.6,
+        "raw_line": "2 DCN02983 111/1/80 NYLON TWT DYED YAR54N025100NL60061 DIRVNY7239 [BLACK] 1R1M0232011.01010049K2GS 360.00 79599.60"
+      }
+    ],
+    "total_payable": 121376.0
+  },
+  {
+    "source_file": "doc_002.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1016,
+    "doc_number": "DDS/00484/25-26",
+    "doc_date": "2026-01-01",
+    "counterparty": "SANIL TEX PVT LTD",
+    "location": "BOISAR Cash Disc",
+    "agent": "UMANG DAVE Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 300.0,
+        "uom": "KGS",
+        "unit_price": 171.5,
+        "amount": 51450.0,
+        "party_po_ref": "EMAIL/01.01",
+        "raw_line": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE 300.000 171.50 51450.00 EMAIL/01.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_003.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1048,
+    "doc_number": "DDS/00499/25-26",
+    "doc_date": "2026-01-12",
+    "counterparty": "MAHAJAN SILK MILLS",
+    "location": "TARAPUR Cash Disc",
+    "agent": "SHREENATH YARN AGENCY Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "200/48/350 T-TWT GREY YARN DIRECT - WHITE",
+        "quantity": 4200.0,
+        "uom": "KGS",
+        "unit_price": 128.5,
+        "amount": 539700.0,
+        "party_po_ref": "A2500259/9.",
+        "raw_line": "200/48/350 T-TWT GREY YARN DIRECT - WHITE 4200.000 128.50 539700.00 A2500259/9. 128+0.50RD 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_004.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3645,
+    "doc_number": "P29119",
+    "doc_date": "2026-01-03",
+    "counterparty": "PAGE INDUSTRIES LTD",
+    "buyer_order_ref": "PO 4525028400",
+    "order_date": "2025-12-10",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-02",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04355",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60203",
+        "shade": "J",
+        "quantity": 1.0,
+        "uom": "KGS",
+        "unit_price": 368.0,
+        "amount": 8206.4,
+        "raw_line": "1 SA04355 70/2/80 NYLON TWT DYED YAR5N4025100NL60203 DIRVNY7756[V J OREG1ANO2]2.300 KGS 368.00 8206.40"
+      }
+    ],
+    "total_payable": 8617.0
+  },
+  {
+    "source_file": "doc_005.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1033,
+    "doc_number": "DDS/00538/25-26",
+    "doc_date": "2026-01-27",
+    "counterparty": "",
+    "location": "DELHI Cash Disc",
+    "agent": "BIMAL SINGH KAMAL SINGH Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 164.0,
+        "amount": 164000.0,
+        "party_po_ref": "EMAIL/27.01",
+        "raw_line": "80/34/600 T-TWT GREY YARN LIGHT - WHITE 1000.000 164.00 164000.00 EMAIL/27.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_006.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3626,
+    "doc_number": "P29151",
+    "doc_date": "2026-01-05",
+    "counterparty": "DEVISHREE ENTERPRISES",
+    "buyer_order_ref": "PO EMAIL/25.12.25",
+    "order_date": "2025-12-26",
+    "broker": "R RAMESH",
+    "due_date": "2026-01-09",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02990",
+        "item_description_original": "110/36 CATEX DYED YARN",
+        "hsn_code": "54024700",
+        "lot_number": "VP154236",
+        "shade": "RED",
+        "quantity": 155.9,
+        "uom": "KGS",
+        "unit_price": 208.0,
+        "amount": 32427.2,
+        "raw_line": "1 DCN02990 110/36 CATEX DYED YARN 54024700VP154236 DKCT0054 [RED] 8 155.900 KGS 208.00 32427.20"
+      }
+    ],
+    "total_payable": 34049.0
+  },
+  {
+    "source_file": "doc_007.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1095,
+    "doc_number": "DDS/00528/25-26",
+    "doc_date": "2026-01-22",
+    "counterparty": "RESPA TEXTILES PRIVATE LIMITED",
+    "location": "NOIDA Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "120/75X2 SPD-POLY-COVER BLACK DARK+10 - BLACK",
+        "quantity": 3000.0,
+        "uom": "KGS",
+        "unit_price": 480.0,
+        "amount": 1440000.0,
+        "party_po_ref": "0",
+        "raw_line": "120/75X2 SPD-POLY-COVER BLACK DARK+10 - BLACK 3000.000 480.00 1440000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_008.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 1725,
+    "doc_number": "DPY/00366/25-26",
+    "doc_date": "2026-01-24",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "payment_terms": "3 days",
+    "ordered_by": "AMIT MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "265/48 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00366/25-2624",
+        "quantity": 20000.0,
+        "uom": "KGS",
+        "unit_price": 89.3,
+        "amount": 1786000.0,
+        "raw_line": "1 - 265/48 SD POY 54024600 POY/00366/25-2624-01-26 20000.000 KGS 89.30 1786000.00 0.00 1786000.00"
+      }
+    ],
+    "remarks": "RATE BASIC PLUS GST"
+  },
+  {
+    "source_file": "doc_009.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1094,
+    "doc_number": "DDS/00531/25-26",
+    "doc_date": "2026-01-22",
+    "counterparty": "SPICA INDUSTRIES PRIVATE LIMITED",
+    "location": "KHANDALA Cash Disc",
+    "agent": "SONAL TEXTILE INDUSTRIES Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 2200.0,
+        "uom": "KGS",
+        "unit_price": 365.0,
+        "amount": 803000.0,
+        "party_po_ref": "0",
+        "raw_line": ". - RAW WHITE 2200.000 365.00 803000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_010.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3700,
+    "doc_number": "P29134",
+    "doc_date": "2026-01-04",
+    "counterparty": "DEEP TEX",
+    "buyer_order_ref": "PO EMAIL/23.12.25",
+    "order_date": "2025-12-23",
+    "broker": "R BAJAJ & CO.",
+    "due_date": "2026-01-08",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCB00195",
+        "item_description_original": "85/34/300 T-TWT DYED YARN",
+        "hsn_code": "54025210",
+        "lot_number": "VP154003",
+        "shade": "LT PT628",
+        "quantity": 124.6,
+        "uom": "KGS",
+        "unit_price": 241.5,
+        "amount": 30090.9,
+        "raw_line": "1 DCB00195 85/34/300 T-TWT DYED YARN 54025210VP154003 LT PT628 4 124.600 KGS 241.50 30090.90"
+      }
+    ],
+    "total_payable": 30809.0,
+    "discount_pct": 2.0,
+    "discount_amt": 601.82
+  },
+  {
+    "source_file": "doc_011.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3564,
+    "doc_number": "P29108",
+    "doc_date": "2026-01-02",
+    "counterparty": "TULIP ELASTICS PVT.LTD.,",
+    "buyer_order_ref": "PO 222/24.12.25",
+    "order_date": "2025-12-27",
+    "broker": "ANOOP SHARMA",
+    "due_date": "2026-02-01",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04335",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60371",
+        "shade": "",
+        "quantity": 354.29,
+        "uom": "KGS",
+        "unit_price": 363.0,
+        "amount": 128607.27,
+        "raw_line": "1 SA04335 111/2/80 NYLON TWT DYED YAR54N025100NL60371 DKVNY850 20 354.290 KGS 363.00 128607.27"
+      }
+    ],
+    "total_payable": 135038.0
+  },
+  {
+    "source_file": "doc_012.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1043,
+    "doc_number": "DDS/00535/25-26",
+    "doc_date": "2026-01-23",
+    "counterparty": "LAXMINATH TEXTILES",
+    "location": "ICHALKARANJI Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "65/2 DR-LIM GREY YARN LIGHT - WHITE",
+        "quantity": 12000.0,
+        "uom": "KGS",
+        "unit_price": 123.0,
+        "amount": 1476000.0,
+        "party_po_ref": "EMAIL/23.01",
+        "raw_line": "65/2 DR-LIM GREY YARN LIGHT - WHITE 12000.000 123.00 1476000.00 EMAIL/23.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_013.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3523,
+    "doc_number": "D13236",
+    "doc_date": "2026-01-03",
+    "counterparty": "BIMAL SINGH KAMAL SINGH",
+    "buyer_order_ref": "PO EMAIL/27.12.25",
+    "order_date": "2025-12-27",
+    "broker": "BIMAL SINGH KAMAL SINGH",
+    "due_date": "2026-01-23",
+    "line_items": [],
+    "total_payable": 104263.0,
+    "discount_pct": 0.5,
+    "discount_amt": 498.98
+  },
+  {
+    "source_file": "doc_014.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7214,
+    "doc_number": "P29096",
+    "doc_date": "2026-01-01",
+    "counterparty": "SRI VIGNESH TEXTILES",
+    "buyer_order_ref": "PO EMAIL/09.12.25",
+    "order_date": "2025-12-09",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-01-31",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04327",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60214",
+        "shade": "",
+        "quantity": 204.42,
+        "uom": "KGS",
+        "unit_price": 372.0,
+        "amount": 76044.24,
+        "raw_line": "1 SA04327 111/2/80 NYLON TWT DYED YAR54N025100NL60214 DIRVNY6331 11 204.420 KGS 372.00 76044.24"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04328",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60270",
+        "shade": "PURPLE",
+        "quantity": 21.285,
+        "uom": "KGS",
+        "unit_price": 372.0,
+        "amount": 7918.02,
+        "raw_line": "2 SA04328 111/2/80 NYLON TWT DYED YAR54N025100NL60270 DIRVNY7919[PURPLE]1 21.285 KGS 372.00 7918.02"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04329",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60193",
+        "shade": "OLIVE",
+        "quantity": 101.165,
+        "uom": "KGS",
+        "unit_price": 387.0,
+        "amount": 39150.86,
+        "raw_line": "3 SA04329 70/2/80 NYLON TWT DYED YAR5N4025100NL60193 DIRVNY3236[OLIVE] 5 101.165 KGS 387.00 39150.86"
+      },
+      {
+        "sr_no": "4",
+        "challan_no": "SA04330",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60310",
+        "shade": "",
+        "quantity": 95.77,
+        "uom": "KGS",
+        "unit_price": 387.0,
+        "amount": 37062.99,
+        "raw_line": "4 SA04330 70/2/80 NYLON TWT DYED YAR5N4025100NL60310 DIRVNY5304 5 95.770 KGS 387.00 37062.99"
+      }
+    ],
+    "total_payable": 163747.0
+  },
+  {
+    "source_file": "doc_015.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1047,
+    "doc_number": "DDS/00491/25-26",
+    "doc_date": "2026-01-06",
+    "counterparty": "GOLDEN GATES ENTERPRISES",
+    "location": "GREATER NOIDA Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "120/75X2 SPD-POLY-COVER BLACK DARK+10 - BLACK",
+        "quantity": 100.0,
+        "uom": "KGS",
+        "unit_price": 505.0,
+        "amount": 50500.0,
+        "party_po_ref": "0",
+        "raw_line": "120/75X2 SPD-POLY-COVER BLACK DARK+10 - BLACK 100.000 505.00 50500.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_016.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1099,
+    "doc_number": "DDS/00515/25-26",
+    "doc_date": "2026-01-21",
+    "counterparty": "JSM ENTERPRISES",
+    "location": "HOWRAH Cash Disc",
+    "agent": "BIMAL SINGH KAMAL SINGH Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "100/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 163.0,
+        "amount": 163000.0,
+        "party_po_ref": "EMAIL/21.01",
+        "raw_line": "100/34/600 T-TWT GREY YARN LIGHT - WHITE 1000.000 163.00 163000.00 EMAIL/21.01 DELIVERY ON 21.01.260 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_017.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 1769,
+    "doc_number": "DPY/00335/25-26",
+    "doc_date": "2026-01-05",
+    "counterparty": "BEEKAYLON SYNTHETICS PVT. LTD.",
+    "payment_terms": "5 days",
+    "ordered_by": "AMIT MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "126/72 FD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00335/25-2606",
+        "quantity": 6500.0,
+        "uom": "KGS",
+        "unit_price": 99.0,
+        "amount": 643500.0,
+        "raw_line": "1 - 126/72 FD POY 54024600 POY/00335/25-2606-01-26 6500.000 KGS 99.00 643500.00 0.00 643500.00"
+      }
+    ],
+    "remarks": "Request to supply material as per agreed P.O , Changes in quantity and amount will not be accepted."
+  },
+  {
+    "source_file": "doc_018.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3638,
+    "doc_number": "P29095",
+    "doc_date": "2026-01-01",
+    "counterparty": "SUPER KNIT INDUSTRIES",
+    "buyer_order_ref": "PO 2526/08.12.25",
+    "order_date": "2025-12-09",
+    "broker": "ANOOP SHARMA",
+    "due_date": "2026-01-31",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02951",
+        "item_description_original": "70/1/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60125",
+        "shade": "RUST",
+        "quantity": 22.1,
+        "uom": "KGS",
+        "unit_price": 382.0,
+        "amount": 8442.2,
+        "raw_line": "1 DCN02951 70/1/80 NYLON TWT DYED YAR5N4025100NL60125 DIRVNY7842[RUST] 1 22.100 KGS 382.00 8442.20"
+      }
+    ],
+    "total_payable": 8864.0
+  },
+  {
+    "source_file": "doc_019.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3599,
+    "doc_number": "D13244",
+    "doc_date": "2026-01-04",
+    "counterparty": "AMBER EXPORTS INDIA ONEUP TEXSTYLES",
+    "buyer_order_ref": "PO EMAIL/23.12.25",
+    "order_date": "2025-12-23",
+    "broker": "HO",
+    "due_date": "2026-01-08",
+    "line_items": [],
+    "total_payable": 319868.0
+  },
+  {
+    "source_file": "doc_020.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1108,
+    "doc_number": "DDS/00517/25-26",
+    "doc_date": "2026-01-21",
+    "counterparty": "JSM ENTERPRISES",
+    "location": "HOWRAH Cash Disc",
+    "agent": "BIMAL SINGH KAMAL SINGH Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 450.0,
+        "uom": "KGS",
+        "unit_price": 163.0,
+        "amount": 73350.0,
+        "party_po_ref": "EMAIL/21.01",
+        "raw_line": "80/34/600 T-TWT GREY YARN LIGHT - WHITE 450.000 163.00 73350.00 EMAIL/21.01 DELIVERY ON 25.01.26 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_021.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3560,
+    "doc_number": "P29115",
+    "doc_date": "2026-01-03",
+    "counterparty": "V.T. HANDLOOMS",
+    "buyer_order_ref": "PO EMAIL/08.12.25",
+    "order_date": "2025-12-08",
+    "broker": "R RAMESH",
+    "due_date": "2026-01-07",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02955",
+        "item_description_original": "110/72/0 SUPER CATLON",
+        "hsn_code": "54024700",
+        "lot_number": "VP154016",
+        "shade": "MEJANTA8",
+        "quantity": 14010.3698,
+        "uom": "KGS",
+        "unit_price": 214.0,
+        "amount": 30319.52,
+        "raw_line": "1 DCN02955 110/72/0 SUPER CATLON 54024700VP154016 DKCAT-176 [MEJANTA8] CW14010.36980 KGS 214.00 30319.52"
+      }
+    ],
+    "total_payable": 31836.0
+  },
+  {
+    "source_file": "doc_022.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3652,
+    "doc_number": "P29140",
+    "doc_date": "2026-01-04",
+    "counterparty": "WHITE ROSE TEXTILES LLP",
+    "buyer_order_ref": "PO 94/11.12.25",
+    "order_date": "2025-12-12",
+    "broker": "HO",
+    "due_date": "2026-01-19",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04404",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60132",
+        "shade": "BLACK",
+        "quantity": 1.0,
+        "uom": "KGS",
+        "unit_price": 340.0,
+        "amount": 73052.4,
+        "raw_line": "1 SA04404 111/2/80 NYLON TWT DYED YAR54N025100NL60132 DIRVNY7239 [BLACK] 1R1M0231041.08060049K3GS 340.00 73052.40"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04405",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60133",
+        "shade": "BLACK",
+        "quantity": 1.0,
+        "uom": "KGS",
+        "unit_price": 340.0,
+        "amount": 121305.2,
+        "raw_line": "2 SA04405 111/2/80 NYLON TWT DYED YAR54N025100NL60133 DIRVNY7239 [BLACK] 1R7M0335061.07080049K3GS 340.00 121305.20"
+      }
+    ],
+    "total_payable": 204075.0
+  },
+  {
+    "source_file": "doc_023.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1046,
+    "doc_number": "DDS/00526/25-26",
+    "doc_date": "2026-01-22",
+    "counterparty": "GULAB HOSIERY MFG CO",
+    "location": "MUMBAI Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 25.0,
+        "uom": "KGS",
+        "unit_price": 300.0,
+        "amount": 7500.0,
+        "party_po_ref": "PARTY/22.0",
+        "raw_line": ". - RAW WHITE 25.000 300.00 7500.00 PARTY/22.0 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_024.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1085,
+    "doc_number": "DDS/00489/25-26",
+    "doc_date": "2026-01-06",
+    "counterparty": "NATIONAL HOSIERY FACTORY",
+    "location": "NEW DELHI Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20/80 SPD-POLY-AC DYED YARN DARK+10 - BLACK",
+        "quantity": 200.0,
+        "uom": "KGS",
+        "unit_price": 187.0,
+        "amount": 37400.0,
+        "party_po_ref": "EMAIL/06.01",
+        "raw_line": "20/80 SPD-POLY-AC DYED YARN DARK+10 - BLACK 200.000 187.00 37400.00 EMAIL/06.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_025.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 1739,
+    "doc_number": "DPY/00342/25-26",
+    "doc_date": "2026-01-05",
+    "counterparty": "MEHER CREATIONS",
+    "payment_terms": "0 days",
+    "ordered_by": "AMIT MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "85/24 NYLON POY",
+        "hsn_code": "54024500",
+        "indent_no": "POY/00342/25-2607",
+        "quantity": 20160.0,
+        "uom": "KGS",
+        "unit_price": 152.0,
+        "amount": 3064320.0,
+        "raw_line": "1 - 85/24 NYLON POY 54024500 POY/00342/25-2607-01-26 20160.000 KGS 152.00 3064320.00 0.00 3064320.00"
+      }
+    ],
+    "remarks": "RATE RS 152 PLUS 5% GST"
+  },
+  {
+    "source_file": "doc_026.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3676,
+    "doc_number": "P29097",
+    "doc_date": "2026-01-01",
+    "counterparty": "KOHINOOR ELASTICS PVT. LTD.",
+    "buyer_order_ref": "PO EXP2716/16.12.25",
+    "order_date": "2025-12-31",
+    "broker": "SELF",
+    "due_date": "2026-01-11",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02946",
+        "item_description_original": "75/34/2/100 POLY.HB TWT DYED YARN",
+        "hsn_code": "",
+        "lot_number": "VP153973",
+        "shade": "BLACK",
+        "quantity": 361.28,
+        "uom": "KGS",
+        "unit_price": 216.5,
+        "amount": 78217.12,
+        "raw_line": "1 DCN02946 75/34/2/100 POLY.HB TWT.DYED54 Y0A2R52N10VP153973 DKVHB4208 [BLACK]14 361.280 KGS 216.50 78217.12"
+      }
+    ],
+    "total_payable": 80485.0,
+    "discount_pct": 2.0,
+    "discount_amt": 1564.34
+  },
+  {
+    "source_file": "doc_027.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3716,
+    "doc_number": "P29142",
+    "doc_date": "2026-01-05",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1722/25.12.25",
+    "order_date": "2025-12-25",
+    "broker": "SELF",
+    "due_date": "2026-01-09",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04406",
+        "item_description_original": "150/96/0 MH-LIM HARD DYED",
+        "hsn_code": "54023300",
+        "lot_number": "VP154133",
+        "shade": "",
+        "quantity": 223.805,
+        "uom": "KGS",
+        "unit_price": 195.0,
+        "amount": 43641.98,
+        "raw_line": "1 SA04406 150/96/0 MH-LIM HARD DYED Y5A4R0N23300VP154133 DKROV1556 6 223.805 KGS 195.00 43641.98"
+      }
+    ],
+    "total_payable": 45824.0
+  },
+  {
+    "source_file": "doc_028.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1038,
+    "doc_number": "DDS/00518/25-26",
+    "doc_date": "2026-01-21",
+    "counterparty": "MALVILON SYNTHETICS PVT.LTD",
+    "location": "TARAPUR Cash Disc",
+    "agent": "MUKESH R. MEHTA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "LIGHT - WHITE",
+        "quantity": 1500.0,
+        "uom": "KGS",
+        "unit_price": 150.5,
+        "amount": 225750.0,
+        "party_po_ref": "EMAIL/21.01",
+        "raw_line": "LIGHT - WHITE 1500.000 150.50 225750.00 EMAIL/21.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_029.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7250,
+    "doc_number": "P29135",
+    "doc_date": "2026-01-04",
+    "counterparty": "LEADER TAPES",
+    "buyer_order_ref": "PO 111/27.12.25",
+    "order_date": "2025-12-29",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-03",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04357",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL58115",
+        "shade": "BLACK",
+        "quantity": 110.915,
+        "uom": "KGS",
+        "unit_price": 382.0,
+        "amount": 42369.53,
+        "raw_line": "1 SA04357 70/2/80 NYLON TWT DYED YAR5N4025100NL58115 7239 [BLACK] 5 110.915 KGS 382.00 42369.53"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04358",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL58329",
+        "shade": "BLACK",
+        "quantity": 219.61,
+        "uom": "KGS",
+        "unit_price": 382.0,
+        "amount": 83891.02,
+        "raw_line": "2 SA04358 70/2/80 NYLON TWT DYED YAR5N4025100NL58329 7239 [BLACK] 10 219.610 KGS 382.00 83891.02"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04359",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL58692",
+        "shade": "BLACK",
+        "quantity": 209.42,
+        "uom": "KGS",
+        "unit_price": 382.0,
+        "amount": 79998.44,
+        "raw_line": "3 SA04359 70/2/80 NYLON TWT DYED YAR5N4025100NL58692 7239 [BLACK] 10 209.420 KGS 382.00 79998.44"
+      },
+      {
+        "sr_no": "4",
+        "challan_no": "SA04360",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL58764",
+        "shade": "",
+        "quantity": 225.66,
+        "uom": "KGS",
+        "unit_price": 382.0,
+        "amount": 86202.12,
+        "raw_line": "4 SA04360 70/2/80 NYLON TWT DYED YAR5N4025100NL58764 DIRVNY1004 10 225.660 KGS 382.00 86202.12"
+      },
+      {
+        "sr_no": "5",
+        "challan_no": "SA04400",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60427",
+        "shade": "",
+        "quantity": 354.795,
+        "uom": "KGS",
+        "unit_price": 382.0,
+        "amount": 135531.69,
+        "raw_line": "5 SA04400 70/2/80 NYLON TWT DYED YAR5N4025100NL60427 DIRVNY1004 17 354.795 KGS 382.00 135531.69"
+      }
+    ],
+    "total_payable": 449392.0
+  },
+  {
+    "source_file": "doc_030.pdf",
+    "doc_type": "PACKING_LIST",
+    "raw_text_length": 22187,
+    "doc_date": "2025-10-10",
+    "date_range_end": "2025-10-26",
+    "doc_number": "",
+    "counterparty": "VALSON (INTERNAL)",
+    "department": "TWISTING",
+    "line_items": []
+  },
+  {
+    "source_file": "doc_031.pdf",
+    "doc_type": "UNKNOWN",
+    "raw_text_length": 4,
+    "doc_number": "",
+    "doc_date": "",
+    "counterparty": "",
+    "line_items": []
+  },
+  {
+    "source_file": "doc_032.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1038,
+    "doc_number": "DDS/00537/25-26",
+    "doc_date": "2026-01-27",
+    "counterparty": "",
+    "location": "DELHI Cash Disc",
+    "agent": "BIMAL SINGH KAMAL SINGH Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "100/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 2000.0,
+        "uom": "KGS",
+        "unit_price": 164.0,
+        "amount": 328000.0,
+        "party_po_ref": "EMAIL/27.01",
+        "raw_line": "100/34/600 T-TWT GREY YARN LIGHT - WHITE 2000.000 164.00 328000.00 EMAIL/27.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_033.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1084,
+    "doc_number": "DDS/00506/25-26",
+    "doc_date": "2026-01-15",
+    "counterparty": "NATIONAL HOSIERY FACTORY",
+    "location": "NEW DELHI Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20/80 SPD-POLY-AC GREY YARN LIGHT - WHITE",
+        "quantity": 200.0,
+        "uom": "KGS",
+        "unit_price": 177.0,
+        "amount": 35400.0,
+        "party_po_ref": "EMAIL/15.01",
+        "raw_line": "20/80 SPD-POLY-AC GREY YARN LIGHT - WHITE 200.000 177.00 35400.00 EMAIL/15.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_034.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 2033,
+    "doc_number": "DPY/00345/25-26",
+    "doc_date": "2026-01-10",
+    "counterparty": "ALLIANCE FIBRES PRIVATE LIMITED",
+    "payment_terms": "0 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "2",
+        "item_description_original": "300/96 NIM RECYCLED POLYESTER YARN",
+        "hsn_code": "54023300",
+        "indent_no": "POY/00345/25-2610",
+        "quantity": 520.0,
+        "uom": "KGS",
+        "unit_price": 121.0,
+        "amount": 62920.0,
+        "raw_line": "2 - 300/96 NIM RECYCLED POLYESTER YARN 54023300 POY/00345/25-2610-01-26 520.000 KGS 121.00 62920.00 0.00 62920.00"
+      }
+    ],
+    "remarks": "RATE BASIC PLUS FRT AND GST"
+  },
+  {
+    "source_file": "doc_035.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1019,
+    "doc_number": "DDS/00496/25-26",
+    "doc_date": "2026-01-10",
+    "counterparty": "FRAM CREATIONS LLP",
+    "location": "GHAZIABAD Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20/80 SPD-POLY-AC GREY YARN LIGHT - WHITE",
+        "quantity": 300.0,
+        "uom": "KGS",
+        "unit_price": 210.0,
+        "amount": 63000.0,
+        "party_po_ref": "0",
+        "raw_line": "20/80 SPD-POLY-AC GREY YARN LIGHT - WHITE 300.000 210.00 63000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_036.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7325,
+    "doc_number": "P29122",
+    "doc_date": "2026-01-04",
+    "counterparty": "MAHALAXMI ENTERPRISES",
+    "buyer_order_ref": "PO EMAIL/29.12.25",
+    "order_date": "2025-12-29",
+    "broker": "HO",
+    "due_date": "2026-01-08",
+    "line_items": [],
+    "total_payable": 208996.0
+  },
+  {
+    "source_file": "doc_037.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3637,
+    "doc_number": "D13236",
+    "doc_date": "2026-01-03",
+    "counterparty": "BIMAL SINGH KAMAL SINGH",
+    "buyer_order_ref": "PO EMAIL/27.12.25",
+    "order_date": "2025-12-27",
+    "broker": "BIMAL SINGH KAMAL SINGH",
+    "due_date": "2026-01-23",
+    "line_items": [],
+    "total_payable": 104263.0,
+    "discount_pct": 0.5,
+    "discount_amt": 498.98
+  },
+  {
+    "source_file": "doc_038.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3637,
+    "doc_number": "P29141",
+    "doc_date": "2026-01-05",
+    "counterparty": "BIMAL SINGH KAMAL SINGH",
+    "buyer_order_ref": "PO EMAIL/31.12.25",
+    "order_date": "2025-12-31",
+    "broker": "BIMAL SINGH KAMAL SINGH",
+    "due_date": "2026-01-25",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02987",
+        "item_description_original": "85/34/0 T-DYED YARN",
+        "hsn_code": "54023300",
+        "lot_number": "VP154160",
+        "shade": "LT SVS160",
+        "quantity": 18.48,
+        "uom": "KGS",
+        "unit_price": 197.0,
+        "amount": 3640.56,
+        "raw_line": "1 DCN02987 85/34/0 T-DYED YARN 54023300VP154160 LT SVS160 1 18.480 KGS 197.00 3640.56"
+      }
+    ],
+    "total_payable": 6567.0,
+    "discount_pct": 2.0,
+    "discount_amt": 72.81
+  },
+  {
+    "source_file": "doc_039.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3608,
+    "doc_number": "D13234",
+    "doc_date": "2026-01-01",
+    "counterparty": "GLOBAL EXPORTS",
+    "buyer_order_ref": "PO 20.12.25",
+    "order_date": "2025-12-20",
+    "broker": "SELF",
+    "due_date": "2026-01-31",
+    "line_items": [],
+    "total_payable": 107327.0
+  },
+  {
+    "source_file": "doc_040.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1022,
+    "doc_number": "DDS/00522/25-26",
+    "doc_date": "2026-01-21",
+    "counterparty": "FRAM CREATIONS LLP",
+    "location": "GHAZIABAD Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20/80 SPD-POLY-AC DYED YARN DARK+10 - BLACK",
+        "quantity": 300.0,
+        "uom": "KGS",
+        "unit_price": 220.0,
+        "amount": 66000.0,
+        "party_po_ref": "0",
+        "raw_line": "20/80 SPD-POLY-AC DYED YARN DARK+10 - BLACK 300.000 220.00 66000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_041.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3662,
+    "doc_number": "D13245",
+    "doc_date": "2026-01-04",
+    "counterparty": "CHHOKRA HOISERY FACTORY",
+    "buyer_order_ref": "PO 18/22.12.25",
+    "order_date": "2025-12-23",
+    "broker": "ANOOP SHARMA",
+    "due_date": "2026-02-03",
+    "line_items": [],
+    "total_payable": 307093.0
+  },
+  {
+    "source_file": "doc_042.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3633,
+    "doc_number": "P29120",
+    "doc_date": "2026-01-03",
+    "counterparty": "PAGE INDUSTRIES LTD",
+    "buyer_order_ref": "PO 4525028971",
+    "order_date": "2025-12-10",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-02",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04356",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60082",
+        "shade": "GREEN",
+        "quantity": 187.75,
+        "uom": "KGS",
+        "unit_price": 368.0,
+        "amount": 69092.0,
+        "raw_line": "1 SA04356 70/2/80 NYLON TWT DYED YAR5N4025100NL60082 RGVNY8253 [GREEN] 9 187.750 KGS 368.00 69092.00"
+      }
+    ],
+    "total_payable": 72547.0
+  },
+  {
+    "source_file": "doc_043.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3810,
+    "doc_number": "P29131",
+    "doc_date": "2026-01-04",
+    "counterparty": "KARBHARI CORPORATION",
+    "buyer_order_ref": "PO W-53/05.11.25",
+    "order_date": "2025-11-05",
+    "broker": "NARESH C SHAH",
+    "due_date": "2026-02-03",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCB00197",
+        "item_description_original": "111/1/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60159",
+        "shade": "SPANISH4",
+        "quantity": 7.0,
+        "uom": "KGS",
+        "unit_price": 375.0,
+        "amount": 26411.25,
+        "raw_line": "1 DCB00197 111/1/80 NYLON TWT DYED YAR54N025100NL60159 RGVNY8264 [SPANISH4 COF7F0E.4E3]0 KGS 375.00 26411.25"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "DCB00198",
+        "item_description_original": "111/1/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60131",
+        "shade": "SNUFF",
+        "quantity": 78.57,
+        "uom": "KGS",
+        "unit_price": 380.0,
+        "amount": 29856.6,
+        "raw_line": "2 DCB00198 111/1/80 NYLON TWT DYED YAR54N025100NL60131 RGVNY8263 [SNUFF] 4 78.570 KGS 380.00 29856.60"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "DCB00199",
+        "item_description_original": "40/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60376",
+        "shade": "BLACK",
+        "quantity": 90.6,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 41585.4,
+        "raw_line": "3 DCB00199 40/2/80 NYLON TWT DYED YAR5N4025100NL60376 7239 [BLACK] 5 90.600 KGS 459.00 41585.40"
+      }
+    ],
+    "total_payable": 102746.0
+  },
+  {
+    "source_file": "doc_044.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1145,
+    "doc_number": "DDS/00492/25-26",
+    "doc_date": "2026-01-09",
+    "counterparty": "BIMAL MARKETING LLP",
+    "location": "MUMBAI Cash Disc",
+    "agent": "BIMAL MARKETING LLP Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 130.0,
+        "uom": "KGS",
+        "unit_price": 172.5,
+        "amount": 22425.0,
+        "party_po_ref": "EMAIL/09.01",
+        "raw_line": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE 130.000 172.50 22425.00 EMAIL/09.01 169+1RD 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_045.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3704,
+    "doc_number": "D13241",
+    "doc_date": "2026-01-04",
+    "counterparty": "CHHOKRA HOISERY FACTORY",
+    "buyer_order_ref": "PO CHF/19/",
+    "order_date": "2025-12-31",
+    "broker": "ANOOP SHARMA",
+    "due_date": "2026-01-08",
+    "line_items": [],
+    "total_payable": 125768.0
+  },
+  {
+    "source_file": "doc_046.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3662,
+    "doc_number": "P29133",
+    "doc_date": "2026-01-04",
+    "counterparty": "SANTDAS SILK MILLS",
+    "buyer_order_ref": "PO 93/18.08.25",
+    "order_date": "2025-12-27",
+    "broker": "SHRUTI ENTERPRISES",
+    "due_date": "2026-01-08",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCB00194",
+        "item_description_original": "155/34/350 T-TWT DYED",
+        "hsn_code": "54025210",
+        "lot_number": "VP154029",
+        "shade": "",
+        "quantity": 173.67,
+        "uom": "KGS",
+        "unit_price": 232.5,
+        "amount": 40378.28,
+        "raw_line": "1 DCB00194 155/34/350 T-TWT DYED YARN54025210VP154029 MDVUP852 5 173.670 KGS 232.50 40378.28"
+      }
+    ],
+    "total_payable": 41342.0,
+    "discount_pct": 2.0,
+    "discount_amt": 807.57
+  },
+  {
+    "source_file": "doc_047.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1107,
+    "doc_number": "DDS/00487/25-26",
+    "doc_date": "2026-01-05",
+    "counterparty": "PINEAPPLE FASHION PRIVATE LIMITED",
+    "location": "BHIWANDI Cash Disc",
+    "agent": "PINEAPPLE FASHION PRIVATE LIMITED Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/72/2/0 FD-HIM GREY YARN LIGHT - WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 121.0,
+        "amount": 121000.0,
+        "party_po_ref": "EMAIL/05.1.",
+        "raw_line": "80/72/2/0 FD-HIM GREY YARN LIGHT - WHITE 1000.000 121.00 121000.00 EMAIL/05.1. 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_048.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1060,
+    "doc_number": "DDS/00533/25-26",
+    "doc_date": "2026-01-23",
+    "counterparty": "DEEP SILK MILLS",
+    "location": "BHIWANDI Cash Disc",
+    "agent": "SANJEEV VARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 80.0,
+        "uom": "KGS",
+        "unit_price": 170.0,
+        "amount": 13600.0,
+        "party_po_ref": "0",
+        "raw_line": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE 80.000 170.00 13600.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_049.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3731,
+    "doc_number": "P29132",
+    "doc_date": "2026-01-04",
+    "counterparty": "KINGSTON WEAVING INDUSTRIES",
+    "buyer_order_ref": "PO EMAIL/18.12.25",
+    "order_date": "2025-12-18",
+    "broker": "SANJEEV VARMA",
+    "due_date": "2026-01-08",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCB00193",
+        "item_description_original": "85/34/300 ROYAL WARP DYED",
+        "hsn_code": "54025210",
+        "lot_number": "VP153980",
+        "shade": "LT FIVESTAR7",
+        "quantity": 178.0,
+        "uom": "KGS",
+        "unit_price": 248.5,
+        "amount": 44233.0,
+        "raw_line": "1 DCB00193 85/34/300 ROYAL WARP DYED Y54A0R2N5210VP153980 LT FIVESTAR7 5 178.000 KGS 248.50 44233.00"
+      }
+    ],
+    "total_payable": 45288.0,
+    "discount_pct": 2.0,
+    "discount_amt": 884.66
+  },
+  {
+    "source_file": "doc_050.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3642,
+    "doc_number": "P29094",
+    "doc_date": "2026-01-01",
+    "counterparty": "SUPER KNIT INDUSTRIES",
+    "buyer_order_ref": "PO 5832/26.12.25",
+    "order_date": "2025-12-26",
+    "broker": "ANOOP SHARMA",
+    "due_date": "2026-01-05",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02949",
+        "item_description_original": "85/34/0 T- DYED YARN",
+        "hsn_code": "54023300",
+        "lot_number": "VP153997",
+        "shade": "LT VPS333",
+        "quantity": 313.45,
+        "uom": "KGS",
+        "unit_price": 193.0,
+        "amount": 60495.85,
+        "raw_line": "1 DCN02949 85/34/0 T- DYED YARN 54023300VP153997 LT VPS333 9 313.450 KGS 193.00 60495.85"
+      }
+    ],
+    "total_payable": 63521.0
+  },
+  {
+    "source_file": "doc_051.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3645,
+    "doc_number": "P29149",
+    "doc_date": "2026-01-05",
+    "counterparty": "PAGE INDUSTRIES LTD",
+    "buyer_order_ref": "PO 4525028971",
+    "order_date": "2025-12-10",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-04",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04430",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60465",
+        "shade": "GREEN",
+        "quantity": 70.53,
+        "uom": "KGS",
+        "unit_price": 368.0,
+        "amount": 25955.04,
+        "raw_line": "1 SA04430 70/2/80 NYLON TWT DYED YAR5N4025100NL60465 RGVNY8253 [GREEN] 3 70.530 KGS 368.00 25955.04"
+      }
+    ],
+    "total_payable": 27253.0
+  },
+  {
+    "source_file": "doc_052.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7519,
+    "doc_number": "P29137",
+    "doc_date": "2026-01-04",
+    "counterparty": "SRI VIGNESH TEXTILES",
+    "buyer_order_ref": "PO EMAIL/22.12.25",
+    "order_date": "2025-12-23",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-03",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04363",
+        "item_description_original": "70/72/2/120 NYLON MICRO",
+        "hsn_code": "54025100",
+        "lot_number": "NL60452",
+        "shade": "",
+        "quantity": 1.0,
+        "uom": "KGS",
+        "unit_price": 470.0,
+        "amount": 0.0,
+        "raw_line": "1 SA04363 70/72/2/120 ROUNDED OFF NYLON MICRO DYE5D4 0Y2A5R1N00NL60452 DIRVNY8269SS[BRIGH9T W1H8I5T.E8]10 KGS 470.00 87330.70 0.37"
+      }
+    ],
+    "total_payable": 505030.0
+  },
+  {
+    "source_file": "doc_053.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1029,
+    "doc_number": "DDS/00525/25-26",
+    "doc_date": "2026-01-22",
+    "counterparty": "FRAM CREATIONS LLP",
+    "location": "GHAZIABAD Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "120/75X2 SPD-POLY-COVER BLACK DARK+10 - BLACK",
+        "quantity": 200.0,
+        "uom": "KGS",
+        "unit_price": 505.0,
+        "amount": 101000.0,
+        "party_po_ref": "0",
+        "raw_line": "120/75X2 SPD-POLY-COVER BLACK DARK+10 - BLACK 200.000 505.00 101000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_054.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3596,
+    "doc_number": "P29103",
+    "doc_date": "2026-01-01",
+    "counterparty": "SRI VIGNESH TEXTILES",
+    "buyer_order_ref": "PO EMAIL/17.12.25",
+    "order_date": "2025-12-17",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-01-31",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04334",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60201",
+        "shade": "",
+        "quantity": 99.265,
+        "uom": "KGS",
+        "unit_price": 387.0,
+        "amount": 38415.56,
+        "raw_line": "1 SA04334 70/2/80 NYLON TWT DYED YAR5N4025100NL60201 DIRVNY5301 7 99.265 KGS 387.00 38415.56"
+      }
+    ],
+    "total_payable": 39294.0
+  },
+  {
+    "source_file": "doc_055.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7421,
+    "doc_number": "P29144",
+    "doc_date": "2026-01-05",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1696/22.12.25",
+    "order_date": "2025-12-22",
+    "broker": "SELF",
+    "due_date": "2026-02-04",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04408",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60454",
+        "shade": "LEPRE2",
+        "quantity": 64.32,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 31130.88,
+        "raw_line": "1 SA04408 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60454 DIRVNY7533SS[LEPRE2] 64.320 KGS 484.00 31130.88"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04409",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60405",
+        "shade": "",
+        "quantity": 7.0,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 34010.68,
+        "raw_line": "2 SA04409 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60405 DIRVNY7534SS[SILVER3 BLU7E0].270 KGS 484.00 34010.68"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04410",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60506",
+        "shade": "BISCAY3BAY6",
+        "quantity": 68.36,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 33086.24,
+        "raw_line": "3 SA04410 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60506 DIRVNY7591SS[BISCAY3BAY6]8.360 KGS 484.00 33086.24"
+      },
+      {
+        "sr_no": "4",
+        "challan_no": "SA04411",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60455",
+        "shade": "",
+        "quantity": 3.0,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 48513.74,
+        "raw_line": "4 SA04411 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60455 DIRVNY7593SS[SEA PO3RT1]00.235 KGS 484.00 48513.74"
+      }
+    ],
+    "total_payable": 154079.0
+  },
+  {
+    "source_file": "doc_056.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1037,
+    "doc_number": "DDS/00500/25-26",
+    "doc_date": "2026-01-13",
+    "counterparty": "RG GLOBAL",
+    "location": "NEW DELHI Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 200.0,
+        "uom": "KGS",
+        "unit_price": 160.0,
+        "amount": 32000.0,
+        "party_po_ref": "EMAIL/12.01",
+        "raw_line": ". - RAW WHITE 200.000 160.00 32000.00 EMAIL/12.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_057.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3609,
+    "doc_number": "D13233",
+    "doc_date": "2026-01-01",
+    "counterparty": "GLOBAL EXPORTS",
+    "buyer_order_ref": "PO EMAIL/26.12.25",
+    "order_date": "2025-12-26",
+    "broker": "SELF",
+    "due_date": "2026-01-31",
+    "line_items": [],
+    "total_payable": 103283.0
+  },
+  {
+    "source_file": "doc_058.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1126,
+    "doc_number": "DDS/00514/25-26",
+    "doc_date": "2026-01-17",
+    "counterparty": "VARDHMAN YARNS AND THREADS LIMITED (SEZ)",
+    "location": "VISAKHAPATNAM Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 270.0,
+        "amount": 270000.0,
+        "party_po_ref": "0",
+        "raw_line": ". - RAW WHITE 1000.000 270.00 270000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_059.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1022,
+    "doc_number": "DDS/00539/25-26",
+    "doc_date": "2026-01-29",
+    "counterparty": "BRIGHT CHOICE OVERSEAS",
+    "location": "MUMBAI Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20D SPANDEX YARN NA",
+        "quantity": 32.0,
+        "uom": "KGS",
+        "unit_price": 335.0,
+        "amount": 10720.0,
+        "party_po_ref": "MOHANTI",
+        "raw_line": "20D SPANDEX YARN NA 32.000 335.00 10720.00 MOHANTI 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_060.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1107,
+    "doc_number": "DDS/00536/25-26",
+    "doc_date": "2026-01-27",
+    "counterparty": "PINEAPPLE FASHION PRIVATE LIMITED",
+    "location": "BHIWANDI Cash Disc",
+    "agent": "PINEAPPLE FASHION PRIVATE LIMITED Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "LIGHT - WHITE",
+        "quantity": 2000.0,
+        "uom": "KGS",
+        "unit_price": 151.0,
+        "amount": 302000.0,
+        "party_po_ref": "EMAIL/27.01",
+        "raw_line": "LIGHT - WHITE 2000.000 151.00 302000.00 EMAIL/27.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_061.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7245,
+    "doc_number": "P29113",
+    "doc_date": "2026-01-03",
+    "counterparty": "KOHINOOR ELASTICS PVT. LTD.",
+    "buyer_order_ref": "PO EXP2593/09.12.25",
+    "order_date": "2025-12-09",
+    "broker": "SELF",
+    "due_date": "2026-01-13",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04368",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60269",
+        "shade": "BLAC3K",
+        "quantity": 70.175,
+        "uom": "KGS",
+        "unit_price": 469.0,
+        "amount": 32912.08,
+        "raw_line": "1 SA04368 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60269 DIRNXD1997ASS[BLAC3K] 70.175 KGS 469.00 32912.08"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04369",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60387",
+        "shade": "",
+        "quantity": 44.78,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 20554.02,
+        "raw_line": "2 SA04369 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60387 DIRCNF3221SS 2 44.780 KGS 459.00 20554.02"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04370",
+        "item_description_original": "70/68/2/140 Z TWT NYLON",
+        "hsn_code": "54025100",
+        "lot_number": "NL60399",
+        "shade": "",
+        "quantity": 9.85,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 4521.15,
+        "raw_line": "3 SA04370 70/68/2/140 Z TWT NYLON DYED54 Y0A2R51N00NL60399 DIRCNF3218SS 1 9.850 KGS 459.00 4521.15"
+      },
+      {
+        "sr_no": "4",
+        "challan_no": "SA04371",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60258",
+        "shade": "",
+        "quantity": 37.63,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 17272.17,
+        "raw_line": "4 SA04371 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60258 DIRCNF3230SS 2 37.630 KGS 459.00 17272.17"
+      }
+    ],
+    "total_payable": 77442.0,
+    "discount_pct": 2.0,
+    "discount_amt": 1505.19
+  },
+  {
+    "source_file": "doc_062.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3624,
+    "doc_number": "P29128",
+    "doc_date": "2026-01-04",
+    "counterparty": "SRI VIGNESH TEXTILES",
+    "buyer_order_ref": "PO EMAIL/22.12.25",
+    "order_date": "2025-12-22",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-03",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02984",
+        "item_description_original": "110/48/2/80 HB-TWT DYED",
+        "hsn_code": "54025210",
+        "lot_number": "VP154112",
+        "shade": "R BLUE",
+        "quantity": 505.67,
+        "uom": "KGS",
+        "unit_price": 192.0,
+        "amount": 97088.64,
+        "raw_line": "1 DCN02984 110/48/2/80 HB-TWT DYED YAR5N4025210VP154112 MDVHB4843 [R BLUE]27 505.670 KGS 192.00 97088.64"
+      }
+    ],
+    "total_payable": 99288.0
+  },
+  {
+    "source_file": "doc_063.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1111,
+    "doc_number": "DDS/00486/25-26",
+    "doc_date": "2026-01-05",
+    "counterparty": "PINEAPPLE FASHION PRIVATE LIMITED",
+    "location": "BHIWANDI Cash Disc",
+    "agent": "PINEAPPLE FASHION PRIVATE LIMITED Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/72/0/W-FD-HIM GREY YARN LIGHT - WHITE",
+        "quantity": 3000.0,
+        "uom": "KGS",
+        "unit_price": 121.0,
+        "amount": 363000.0,
+        "party_po_ref": "EMAIL/05.01",
+        "raw_line": "80/72/0/W-FD-HIM GREY YARN LIGHT - WHITE 3000.000 121.00 363000.00 EMAIL/05.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_064.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7780,
+    "doc_number": "P29105",
+    "doc_date": "2026-01-01",
+    "counterparty": "SUPER KNIT INDUSTRIES",
+    "buyer_order_ref": "PO 2526/08.12.25",
+    "order_date": "2025-12-09",
+    "broker": "ANOOP SHARMA",
+    "due_date": "2026-01-31",
+    "line_items": [],
+    "total_payable": 242951.0
+  },
+  {
+    "source_file": "doc_065.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1016,
+    "doc_number": "DDS/00497/25-26",
+    "doc_date": "2026-01-10",
+    "counterparty": "FRAM CREATIONS LLP",
+    "location": "GHAZIABAD Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20/80 SPD-POLY-AC DYED YARN DARK+10 - BLACK",
+        "quantity": 300.0,
+        "uom": "KGS",
+        "unit_price": 220.0,
+        "amount": 66000.0,
+        "party_po_ref": "0",
+        "raw_line": "20/80 SPD-POLY-AC DYED YARN DARK+10 - BLACK 300.000 220.00 66000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_066.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3626,
+    "doc_number": "D13247",
+    "doc_date": "2026-01-05",
+    "counterparty": "RESPA TEXTILES PRIVATE LIMITED",
+    "buyer_order_ref": "PO 063/23.12.25",
+    "order_date": "2025-12-23",
+    "broker": "SELF",
+    "due_date": "2026-02-04",
+    "line_items": [],
+    "total_payable": 135836.0
+  },
+  {
+    "source_file": "doc_067.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3578,
+    "doc_number": "D13243",
+    "doc_date": "2026-01-04",
+    "counterparty": "SANIL TEX PVT LTD",
+    "buyer_order_ref": "PO EMAIL/01.01.25",
+    "order_date": "2026-01-01",
+    "broker": "UMANG DAVE",
+    "due_date": "2026-01-08",
+    "line_items": [],
+    "total_payable": 54422.0,
+    "discount_pct": 1.0,
+    "discount_amt": 523.54
+  },
+  {
+    "source_file": "doc_068.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1103,
+    "doc_number": "DDS/00530/25-26",
+    "doc_date": "2026-01-22",
+    "counterparty": "SPICA INDUSTRIES PRIVATE LIMITED",
+    "location": "KHANDALA Cash Disc",
+    "agent": "SONAL TEXTILE INDUSTRIES Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "DARK+10 - BLACK",
+        "quantity": 2600.0,
+        "uom": "KGS",
+        "unit_price": 375.0,
+        "amount": 975000.0,
+        "party_po_ref": "0",
+        "raw_line": "DARK+10 - BLACK 2600.000 375.00 975000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_069.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 2172,
+    "doc_number": "DPY/00348/25-26",
+    "doc_date": "2026-01-15",
+    "counterparty": "SANATHAN TEXTILES LIMITED",
+    "payment_terms": "5 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "160/72 BRT CATONIC POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00348/25-2629",
+        "quantity": 18000.0,
+        "uom": "KGS",
+        "unit_price": 110.0,
+        "amount": 1980000.0,
+        "raw_line": "1 - 160/72 BRT CATONIC POY 54024600 POY/00348/25-2629-01-26 18000.000 KGS 110.00 1980000.00 0.00 1980000.00"
+      },
+      {
+        "sr_no": "2",
+        "item_description_original": "160/36 BRT CATONIC POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00348/25-2629",
+        "quantity": 6000.0,
+        "uom": "KGS",
+        "unit_price": 110.0,
+        "amount": 660000.0,
+        "raw_line": "2 - 160/36 BRT CATONIC POY 54024600 POY/00348/25-2629-01-26 6000.000 KGS 110.00 660000.00 0.00 660000.00"
+      },
+      {
+        "sr_no": "3",
+        "item_description_original": "160/72 SD CATONIC POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00348/25-2629",
+        "quantity": 10000.0,
+        "uom": "KGS",
+        "unit_price": 110.0,
+        "amount": 1100000.0,
+        "raw_line": "3 - 160/72 SD CATONIC POY 54024600 POY/00348/25-2629-01-26 10000.000 KGS 110.00 1100000.00 0.00 1100000.00"
+      }
+    ],
+    "remarks": "DELIVERY START FROM 29,30/01/2026."
+  },
+  {
+    "source_file": "doc_070.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1071,
+    "doc_number": "DDS/00490/25-26",
+    "doc_date": "2026-01-06",
+    "counterparty": "GOLDEN GATES ENTERPRISES",
+    "location": "GREATER NOIDA Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 50.0,
+        "uom": "KGS",
+        "unit_price": 495.0,
+        "amount": 24750.0,
+        "party_po_ref": "EMAIL03.01.",
+        "raw_line": ". - RAW WHITE 50.000 495.00 24750.00 EMAIL03.01. SOFT TOP 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_071.pdf",
+    "doc_type": "UNKNOWN",
+    "raw_text_length": 4,
+    "doc_number": "",
+    "doc_date": "",
+    "counterparty": "",
+    "line_items": []
+  },
+  {
+    "source_file": "doc_072.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7869,
+    "doc_number": "P29118",
+    "doc_date": "2026-01-03",
+    "counterparty": "KOHINOOR ELASTICS PVT. LTD.",
+    "buyer_order_ref": "PO EXP2370/21.11.25",
+    "order_date": "2025-11-21",
+    "broker": "SELF",
+    "due_date": "2026-01-13",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04372",
+        "item_description_original": "70/2/140 IGST on Rs.192791.97 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60247",
+        "shade": "",
+        "quantity": 51.45,
+        "uom": "KGS",
+        "unit_price": 0.0,
+        "amount": 0.0,
+        "raw_line": "1 SA04372 70/2/140 IGST on Rs.192791.97 NYLON TWT DYED YAR54N025100NL60247 DIRCNF3247 3 51.450 KGS 403.00 5.00% 20734.35 9639.60"
+      }
+    ],
+    "total_payable": 202432.0,
+    "discount_pct": 2.0,
+    "discount_amt": 3934.53
+  },
+  {
+    "source_file": "doc_073.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3574,
+    "doc_number": "D13242",
+    "doc_date": "2026-01-04",
+    "counterparty": "KINGSTON WEAVING INDUSTRIES",
+    "buyer_order_ref": "PO EMAIL/01.01.26",
+    "order_date": "2026-01-01",
+    "broker": "SANJEEV VARMA",
+    "due_date": "2026-01-08",
+    "line_items": [],
+    "total_payable": 43851.0,
+    "discount_pct": 0.5,
+    "discount_amt": 209.86
+  },
+  {
+    "source_file": "doc_074.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1041,
+    "doc_number": "DDS/00527/25-26",
+    "doc_date": "2026-01-22",
+    "counterparty": "GULAB HOSIERY MFG CO",
+    "location": "MUMBAI Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "DARK+10 - BLACK",
+        "quantity": 25.0,
+        "uom": "KGS",
+        "unit_price": 310.0,
+        "amount": 7750.0,
+        "party_po_ref": "VO",
+        "raw_line": "DARK+10 - BLACK 25.000 310.00 7750.00 VO PARTY 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_075.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1049,
+    "doc_number": "DDS/00495/25-26",
+    "doc_date": "2026-01-10",
+    "counterparty": "KUMAR ELASTICS",
+    "location": "BENGALURU Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "DARK+10 - BLACK",
+        "quantity": 1500.0,
+        "uom": "KGS",
+        "unit_price": 145.0,
+        "amount": 217500.0,
+        "party_po_ref": "EMAIL/10.01",
+        "raw_line": "DARK+10 - BLACK 1500.000 145.00 217500.00 EMAIL/10.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_076.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1105,
+    "doc_number": "DDS/00512/25-26",
+    "doc_date": "2026-01-17",
+    "counterparty": "VARDHMAN YARNS AND THREADS LIMITED",
+    "location": "ERODE Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 500.0,
+        "uom": "KGS",
+        "unit_price": 270.0,
+        "amount": 135000.0,
+        "party_po_ref": "0",
+        "raw_line": ". - RAW WHITE 500.000 270.00 135000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_077.pdf",
+    "doc_type": "PURCHASE_REQUISITION",
+    "raw_text_length": 1108,
+    "doc_number": "POY/00280/25-26",
+    "doc_date": "2025-11-25",
+    "counterparty": "INTERNAL REQUISITION",
+    "line_items": [
+      {
+        "item_description_original": "250/34 POY",
+        "quantity": 16000.0,
+        "uom": "KGS",
+        "unit_price": 88.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-11-25",
+        "raw_line": "250/34 POY 16000.000 KGS 88.55 RELIANCE INDUSTRIES LTD 25-Nov-2025 13212.854 0.000 41386.656"
+      },
+      {
+        "item_description_original": "162/34 SD POY",
+        "quantity": 12000.0,
+        "uom": "KGS",
+        "unit_price": 91.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-11-25",
+        "raw_line": "162/34 SD POY 12000.000 KGS 91.55 RELIANCE INDUSTRIES LTD 25-Nov-2025 7892.820 0.000 23272.200"
+      },
+      {
+        "item_description_original": "122/72 POY",
+        "quantity": 6000.0,
+        "uom": "KGS",
+        "unit_price": 93.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-11-25",
+        "raw_line": "122/72 POY 6000.000 KGS 93.55 RELIANCE INDUSTRIES LTD 25-Nov-2025 0.000 0.000 9166.508"
+      },
+      {
+        "item_description_original": "80/34 SD POY",
+        "quantity": 4000.0,
+        "uom": "KGS",
+        "unit_price": 98.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-11-25",
+        "raw_line": "80/34 SD POY 4000.000 KGS 98.55 RELIANCE INDUSTRIES LTD 25-Nov-2025 0.000 0.000 2714.790"
+      },
+      {
+        "item_description_original": "265/48 SD POY",
+        "quantity": 15000.0,
+        "uom": "KGS",
+        "unit_price": 87.3,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-11-25",
+        "raw_line": "265/48 SD POY 15000.000 KGS 87.30 RELIANCE INDUSTRIES LTD 25-Nov-2025 24398.850 0.000 9466.400"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_078.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3629,
+    "doc_number": "P29154",
+    "doc_date": "2026-01-05",
+    "counterparty": "SUPER KNIT INDUSTRIES",
+    "buyer_order_ref": "PO 2526/08.12.25",
+    "order_date": "2025-12-09",
+    "broker": "ANOOP SHARMA",
+    "due_date": "2026-02-04",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04431",
+        "item_description_original": "70/1/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60547",
+        "shade": "D10NXD1608",
+        "quantity": 18.84,
+        "uom": "KGS",
+        "unit_price": 392.0,
+        "amount": 7385.28,
+        "raw_line": "1 SA04431 70/1/80 NYLON TWT DYED YAR5N4025100NL60547 D10NXD1608 1 18.840 KGS 392.00 7385.28"
+      }
+    ],
+    "total_payable": 7755.0
+  },
+  {
+    "source_file": "doc_079.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3639,
+    "doc_number": "P29109",
+    "doc_date": "2026-01-02",
+    "counterparty": "KOHINOOR ELASTICS PVT. LTD.",
+    "buyer_order_ref": "PO REJ0276/11.12.25",
+    "order_date": "2025-12-11",
+    "broker": "SELF",
+    "due_date": "2026-01-12",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04354",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED YARN",
+        "hsn_code": "54025100",
+        "lot_number": "NL60424",
+        "shade": "DIR CNF970SS",
+        "quantity": 104.69,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 48052.71,
+        "raw_line": "1 SA04354 70/68/2/140 NYLON TWT DYED YARN 54025100 NL60424 DIR CNF970SS 3 104.690 KGS 459.00 48052.71"
+      }
+    ],
+    "total_payable": 49446.0,
+    "discount_pct": 2.0,
+    "discount_amt": 961.05
+  },
+  {
+    "source_file": "doc_080.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1098,
+    "doc_number": "DDS/00510/25-26",
+    "doc_date": "2026-01-17",
+    "counterparty": "BIMAL MARKETING LLP",
+    "location": "MUMBAI Cash Disc",
+    "agent": "BIMAL MARKETING LLP Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "LIGHT - WHITE",
+        "quantity": 500.0,
+        "uom": "KGS",
+        "unit_price": 148.0,
+        "amount": 74000.0,
+        "party_po_ref": "KAMLESHB",
+        "raw_line": "LIGHT - WHITE 500.000 148.00 74000.00 KAMLESHB RD-1/- 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_081.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3538,
+    "doc_number": "P29099",
+    "doc_date": "2026-01-01",
+    "counterparty": "MAHALAXMI ENTERPRISES",
+    "buyer_order_ref": "PO EMAIL/12.12.25",
+    "order_date": "2025-12-12",
+    "broker": "HO",
+    "due_date": "2026-01-05",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02952",
+        "item_description_original": "110/72 SUPER KARIZMA",
+        "hsn_code": "54024700",
+        "lot_number": "VP152806",
+        "shade": "D.MAJENT1A2",
+        "quantity": 356.71,
+        "uom": "KGS",
+        "unit_price": 201.0,
+        "amount": 71698.71,
+        "raw_line": "1 DCN02952 110/72 SUPER KARIZMA 54024700VP152806 DKAC555 [D.MAJENT1A2] 356.710 KGS 201.00 71698.71"
+      }
+    ],
+    "total_payable": 75284.0
+  },
+  {
+    "source_file": "doc_082.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1099,
+    "doc_number": "DDS/00516/25-26",
+    "doc_date": "2026-01-21",
+    "counterparty": "JSM ENTERPRISES",
+    "location": "HOWRAH Cash Disc",
+    "agent": "BIMAL SINGH KAMAL SINGH Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "100/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 163.0,
+        "amount": 163000.0,
+        "party_po_ref": "EMAIL/21.01",
+        "raw_line": "100/34/600 T-TWT GREY YARN LIGHT - WHITE 1000.000 163.00 163000.00 EMAIL/21.01 DELIVERY ON 27.1.26 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_083.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 1718,
+    "doc_number": "DPY/00360/25-26",
+    "doc_date": "2026-01-20",
+    "counterparty": "CENTURY ENKA LTD.",
+    "payment_terms": "0 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "85/24 DOPE DYED BLACK NYLON POY",
+        "hsn_code": "54024500",
+        "indent_no": "POY/00360/25-2621",
+        "quantity": 3200.0,
+        "uom": "KGS",
+        "unit_price": 193.0,
+        "amount": 617600.0,
+        "raw_line": "1 - 85/24 DOPE DYED BLACK NYLON POY 54024500 POY/00360/25-2621-01-26 3200.000 KGS 193.00 617600.00 0.00 617600.00"
+      }
+    ],
+    "remarks": "RATE RS.193 DELIVERED SILVASSA LESS CD PLUS GST"
+  },
+  {
+    "source_file": "doc_084.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3764,
+    "doc_number": "P29148",
+    "doc_date": "2026-01-05",
+    "counterparty": "TULIP ELASTICS PVT.LTD.,",
+    "buyer_order_ref": "PO 216/20.12.25",
+    "order_date": "2025-12-20",
+    "broker": "ANOOP SHARMA",
+    "due_date": "2026-02-04",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04427",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60642",
+        "shade": "",
+        "quantity": 20.635,
+        "uom": "KGS",
+        "unit_price": 464.0,
+        "amount": 9574.64,
+        "raw_line": "1 SA04427 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60642 DIRVNY6487SS 1 20.635 KGS 464.00 9574.64"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04428",
+        "item_description_original": "70/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60460",
+        "shade": "LT VNY5077",
+        "quantity": 20.28,
+        "uom": "KGS",
+        "unit_price": 374.0,
+        "amount": 7584.72,
+        "raw_line": "2 SA04428 70/2/140 NYLON TWT DYED YAR54N025100NL60460 LT VNY5077 1 20.280 KGS 374.00 7584.72"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04429",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60476",
+        "shade": "",
+        "quantity": 19.405,
+        "uom": "KGS",
+        "unit_price": 480.0,
+        "amount": 9314.4,
+        "raw_line": "3 SA04429 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60476 DIRNXD5029SS 1 19.405 KGS 480.00 9314.40"
+      }
+    ],
+    "total_payable": 27797.0
+  },
+  {
+    "source_file": "doc_085.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7959,
+    "doc_number": "P29111",
+    "doc_date": "2026-01-03",
+    "counterparty": "KAVIN SILK AND SAREES",
+    "buyer_order_ref": "PO EMAIL/08.11.25",
+    "order_date": "2025-11-08",
+    "broker": "HO",
+    "due_date": "2026-01-07",
+    "line_items": [],
+    "total_payable": 556167.0
+  },
+  {
+    "source_file": "doc_086.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1022,
+    "doc_number": "DDS/00523/25-26",
+    "doc_date": "2026-01-21",
+    "counterparty": "FRAM CREATIONS LLP",
+    "location": "GHAZIABAD Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20/80 SPD-POLY-AC GREY YARN LIGHT - WHITE",
+        "quantity": 300.0,
+        "uom": "KGS",
+        "unit_price": 210.0,
+        "amount": 63000.0,
+        "party_po_ref": "0",
+        "raw_line": "20/80 SPD-POLY-AC GREY YARN LIGHT - WHITE 300.000 210.00 63000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_087.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1111,
+    "doc_number": "DDS/00519/25-26",
+    "doc_date": "2026-01-21",
+    "counterparty": "PINEAPPLE FASHION PRIVATE LIMITED",
+    "location": "BHIWANDI Cash Disc",
+    "agent": "PINEAPPLE FASHION PRIVATE LIMITED Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "LIGHT - WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 151.0,
+        "amount": 151000.0,
+        "party_po_ref": "EMAIL/21.01",
+        "raw_line": "LIGHT - WHITE 1000.000 151.00 151000.00 EMAIL/21.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_088.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3788,
+    "doc_number": "D13239",
+    "doc_date": "2026-01-04",
+    "counterparty": "VARDHMAN YARNS AND THREADS LIMITED",
+    "buyer_order_ref": "",
+    "order_date": "2025-12-22",
+    "broker": "SELF",
+    "due_date": "2026-01-08",
+    "line_items": [],
+    "total_payable": 332493.0
+  },
+  {
+    "source_file": "doc_089.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7141,
+    "doc_number": "P29098",
+    "doc_date": "2026-01-01",
+    "counterparty": "BIMAL SINGH KAMAL SINGH",
+    "buyer_order_ref": "PO EMAIL/24.12.25",
+    "order_date": "2025-12-25",
+    "broker": "BIMAL SINGH KAMAL SINGH",
+    "due_date": "2026-01-21",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02943",
+        "item_description_original": "155/34/0 T-DYED YARN",
+        "hsn_code": "54023300",
+        "lot_number": "VP153974",
+        "shade": "",
+        "quantity": 200.36,
+        "uom": "KGS",
+        "unit_price": 190.0,
+        "amount": 38068.4,
+        "raw_line": "1 DCN02943 155/34/0 T-DYED YARN 54023300VP153974 MDCE4006 11 200.360 KGS 190.00 38068.40"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "DCN02944",
+        "item_description_original": "155/34/0 T- DYED YARN",
+        "hsn_code": "54023300",
+        "lot_number": "VP153989",
+        "shade": "",
+        "quantity": 121.19,
+        "uom": "KGS",
+        "unit_price": 200.0,
+        "amount": 24238.0,
+        "raw_line": "2 DCN02944 155/34/0 T- DYED YARN 54023300VP153989 DK1C5E4016 7 121.190 KGS 200.00 24238.00"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "DCN02945",
+        "item_description_original": "150/34/0 T-DYED YARN",
+        "hsn_code": "54023300",
+        "lot_number": "VP153995",
+        "shade": "",
+        "quantity": 127.42,
+        "uom": "KGS",
+        "unit_price": 200.0,
+        "amount": 25484.0,
+        "raw_line": "3 DCN02945 150/34/0 T-DYED YARN 54023300VP153995 DKBK48 7 127.420 KGS 200.00 25484.00"
+      }
+    ],
+    "total_payable": 88981.0,
+    "discount_pct": 2.0,
+    "discount_amt": 1755.81
+  },
+  {
+    "source_file": "doc_090.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1066,
+    "doc_number": "DDS/00504/25-26",
+    "doc_date": "2026-01-15",
+    "counterparty": "GLOBAL EXPORTS",
+    "location": "DADRA Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "85/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 152.0,
+        "amount": 152000.0,
+        "party_po_ref": "EMAIL/15.01",
+        "raw_line": "85/34/600 T-TWT GREY YARN LIGHT - WHITE 1000.000 152.00 152000.00 EMAIL/15.01 POLY TEX INDIA 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_091.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7650,
+    "doc_number": "P29147",
+    "doc_date": "2026-01-05",
+    "counterparty": "KOHINOOR ELASTICS PVT. LTD.",
+    "buyer_order_ref": "PO EXP2307/14.11.25",
+    "order_date": "2025-11-14",
+    "broker": "SELF",
+    "due_date": "2026-01-15",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04419",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60374",
+        "shade": "",
+        "quantity": 195.11,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 0.0,
+        "raw_line": "1 SA04419 70/68/2/140 ROUNDED OFF NYLON TWT DYED Y54A0R2N5100NL60374 DIRCNF3087SS 7 195.110 KGS 459.00 89555.49 -0.17"
+      }
+    ],
+    "total_payable": 659746.0,
+    "discount_pct": 2.0,
+    "discount_amt": 12823.06
+  },
+  {
+    "source_file": "doc_092.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1098,
+    "doc_number": "DDS/00511/25-26",
+    "doc_date": "2026-01-17",
+    "counterparty": "VARDHMAN YARNS AND THREADS LIMITED",
+    "location": "ERODE Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 10000.0,
+        "uom": "KGS",
+        "unit_price": 207.0,
+        "amount": 2070000.0,
+        "party_po_ref": "0",
+        "raw_line": ". - RAW WHITE 10000.000 207.00 2070000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_093.pdf",
+    "doc_type": "GOODS_RECEIPT_NOTE",
+    "raw_text_length": 1468,
+    "doc_number": "DYT/01116/25-26",
+    "doc_date": "2025-10-05",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "supplier_invoice_no": "27183012087600",
+    "supplier_invoice_date": "2025-10-04",
+    "po_reference": "DPY/00193/25-26",
+    "transporter": "TULSI ROADWAYS",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "126/34 POY",
+        "grade": "IST",
+        "hsn_code": "54024600",
+        "quantity": 4033.4,
+        "uom": "KGS",
+        "unit_price": 96.5,
+        "amount": 389223.1,
+        "raw_line": "1 126/34 POY IST 54024600 1022990 6 216 4033.400 KGS 96.50 389223.10 5.00 19461.16 0.00 0.00 0.00 0.00 408684.26"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_094.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1099,
+    "doc_number": "DDS/00508/25-26",
+    "doc_date": "2026-01-16",
+    "counterparty": "SPICA INDUSTRIES PRIVATE LIMITED",
+    "location": "KHANDALA Cash Disc",
+    "agent": "SONAL TEXTILE INDUSTRIES Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "DARK+10 - BLACK",
+        "quantity": 600.0,
+        "uom": "KGS",
+        "unit_price": 375.0,
+        "amount": 225000.0,
+        "party_po_ref": "0",
+        "raw_line": "DARK+10 - BLACK 600.000 375.00 225000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_095.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1079,
+    "doc_number": "DDS/00520/25-26",
+    "doc_date": "2026-01-21",
+    "counterparty": "NATIONAL HOSIERY FACTORY",
+    "location": "NEW DELHI Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20/80 SPD-POLY-AC GREY YARN LIGHT - WHITE",
+        "quantity": 200.0,
+        "uom": "KGS",
+        "unit_price": 177.0,
+        "amount": 35400.0,
+        "party_po_ref": "EMAIL/21.01",
+        "raw_line": "20/80 SPD-POLY-AC GREY YARN LIGHT - WHITE 200.000 177.00 35400.00 EMAIL/21.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_096.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1031,
+    "doc_number": "DDS/00494/25-26",
+    "doc_date": "2026-01-10",
+    "counterparty": "KUMAR ELASTICS",
+    "location": "BENGALURU Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "LIGHT - WHITE",
+        "quantity": 500.0,
+        "uom": "KGS",
+        "unit_price": 135.0,
+        "amount": 67500.0,
+        "party_po_ref": "EMAIL/10.01",
+        "raw_line": "LIGHT - WHITE 500.000 135.00 67500.00 EMAIL/10.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_097.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1087,
+    "doc_number": "DDS/00507/25-26",
+    "doc_date": "2026-01-15",
+    "counterparty": "NATIONAL HOSIERY FACTORY",
+    "location": "NEW DELHI Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20/80 SPD-POLY-AC DYED YARN DARK+10 - BLACK",
+        "quantity": 200.0,
+        "uom": "KGS",
+        "unit_price": 187.0,
+        "amount": 37400.0,
+        "party_po_ref": "EMAIL/15.01",
+        "raw_line": "20/80 SPD-POLY-AC DYED YARN DARK+10 - BLACK 200.000 187.00 37400.00 EMAIL/15.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_098.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1066,
+    "doc_number": "DDS/00505/25-26",
+    "doc_date": "2026-01-15",
+    "counterparty": "GLOBAL EXPORTS",
+    "location": "DADRA Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "100/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 162.0,
+        "amount": 162000.0,
+        "party_po_ref": "EMAIL/15.01",
+        "raw_line": "100/34/600 T-TWT GREY YARN LIGHT - WHITE 1000.000 162.00 162000.00 EMAIL/15.01 POY TEX INDIA 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_099.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1006,
+    "doc_number": "DDS/00493/25-26",
+    "doc_date": "2026-01-10",
+    "counterparty": "SANIL TEX PVT LTD",
+    "location": "BOISAR Cash Disc",
+    "agent": "UMANG DAVE Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 700.0,
+        "uom": "KGS",
+        "unit_price": 171.5,
+        "amount": 120050.0,
+        "party_po_ref": "0",
+        "raw_line": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE 700.000 171.50 120050.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_100.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3691,
+    "doc_number": "P29107",
+    "doc_date": "2026-01-01",
+    "counterparty": "WHITE ROSE TEXTILES LLP",
+    "buyer_order_ref": "PO 85/26.11.25",
+    "order_date": "2025-12-10",
+    "broker": "HO",
+    "due_date": "2026-01-16",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04352",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60289",
+        "shade": "BEIGE",
+        "quantity": 19.0,
+        "uom": "KGS",
+        "unit_price": 330.0,
+        "amount": 117069.15,
+        "raw_line": "1 SA04352 111/2/80 NYLON TWT DYED YAR54N025100NL60289 DIRVNY7238 [BEIGE] R19M03305140.7050515K9GS 330.00 117069.15"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04353",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60309",
+        "shade": "BEIGE",
+        "quantity": 12.0,
+        "uom": "KGS",
+        "unit_price": 330.0,
+        "amount": 66910.8,
+        "raw_line": "2 SA04353 111/2/80 NYLON TWT DYED YAR54N025100NL60309 DIRVNY7238 [BEIGE] R12M03200120.7060015K9GS 330.00 66910.80"
+      }
+    ],
+    "total_payable": 193179.0
+  },
+  {
+    "source_file": "doc_101.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3624,
+    "doc_number": "P29150",
+    "doc_date": "2026-01-05",
+    "counterparty": "BLAUMANN INDUSTRIES PRIVATE LIMITED",
+    "buyer_order_ref": "PO S11638/18.12.25",
+    "order_date": "2026-01-05",
+    "broker": "HO",
+    "due_date": "2026-02-04",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02996",
+        "item_description_original": "75/48/2/80 HB-TWT DYED",
+        "hsn_code": "54025210",
+        "lot_number": "VP154163",
+        "shade": "RED",
+        "quantity": 360.35,
+        "uom": "KGS",
+        "unit_price": 192.0,
+        "amount": 69187.2,
+        "raw_line": "1 DCN02996 75/48/2/80 HB-TWT DYED YARN54025210VP154163 DKVHB3933 [RED] 19 360.350 KGS 192.00 69187.20"
+      }
+    ],
+    "total_payable": 72647.0
+  },
+  {
+    "source_file": "doc_102.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1123,
+    "doc_number": "DDS/00513/25-26",
+    "doc_date": "2026-01-17",
+    "counterparty": "VARDHMAN YARNS AND THREADS LIMITED (SEZ)",
+    "location": "VISAKHAPATNAM Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 3000.0,
+        "uom": "KGS",
+        "unit_price": 207.0,
+        "amount": 621000.0,
+        "party_po_ref": "0",
+        "raw_line": ". - RAW WHITE 3000.000 207.00 621000.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_103.pdf",
+    "doc_type": "PACKING_LIST",
+    "raw_text_length": 19683,
+    "doc_date": "2025-12-21",
+    "date_range_end": "2025-12-31",
+    "doc_number": "",
+    "counterparty": "VALSON (INTERNAL)",
+    "department": "TWISTING",
+    "line_items": []
+  },
+  {
+    "source_file": "doc_104.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1067,
+    "doc_number": "DDS/00485/25-26",
+    "doc_date": "2026-01-01",
+    "counterparty": "KINGSTON WEAVING INDUSTRIES",
+    "location": "THANE Cash Disc",
+    "agent": "SANJEEV VARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 250.0,
+        "uom": "KGS",
+        "unit_price": 163.0,
+        "amount": 40750.0,
+        "party_po_ref": "EMAIL/01.01",
+        "raw_line": "80/34/600 T-TWT GREY YARN LIGHT - WHITE 250.000 163.00 40750.00 EMAIL/01.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_105.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3829,
+    "doc_number": "P29102",
+    "doc_date": "2026-01-01",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1696/22.12.25",
+    "order_date": "2025-12-22",
+    "broker": "SELF",
+    "due_date": "2026-01-31",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04332",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60378",
+        "shade": "",
+        "quantity": 4.0,
+        "uom": "KGS",
+        "unit_price": 491.0,
+        "amount": 48955.16,
+        "raw_line": "1 SA04332 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60378 DKNXD2739SS[DARK B4LUE9]9.705 KGS 491.00 48955.16"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04333",
+        "item_description_original": "70/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60301",
+        "shade": "CHARCOA5L",
+        "quantity": 96.315,
+        "uom": "KGS",
+        "unit_price": 374.0,
+        "amount": 36021.81,
+        "raw_line": "2 SA04333 70/2/140 NYLON TWT DYED YAR54N025100NL60301 DIRVNY2277[CHARCOA5L] 96.315 KGS 374.00 36021.81"
+      }
+    ],
+    "total_payable": 89226.0
+  },
+  {
+    "source_file": "doc_106.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3623,
+    "doc_number": "D13246",
+    "doc_date": "2026-01-05",
+    "counterparty": "SRI VIGNESH TEXTILES",
+    "buyer_order_ref": "PO EMAIL/15.12.25",
+    "order_date": "2025-12-15",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-04",
+    "line_items": [],
+    "total_payable": 148614.0
+  },
+  {
+    "source_file": "doc_107.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3992,
+    "doc_number": "D13238",
+    "doc_date": "2026-01-04",
+    "counterparty": "VARDHMAN YARNS AND THREADS LIMITED",
+    "buyer_order_ref": "",
+    "order_date": "2025-12-22",
+    "broker": "SELF",
+    "due_date": "2026-01-08",
+    "line_items": [],
+    "total_payable": 315755.0
+  },
+  {
+    "source_file": "doc_108.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3729,
+    "doc_number": "P29145",
+    "doc_date": "2026-01-05",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1652/11.12.25",
+    "order_date": "2025-12-11",
+    "broker": "SELF",
+    "due_date": "2026-02-04",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04425",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60493",
+        "shade": "",
+        "quantity": 42.0,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 20436.9,
+        "raw_line": "1 SA04425 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60493 RGVNY7605SS [JUNGL2E GR42E.E2N25] KGS 484.00 20436.90"
+      }
+    ],
+    "total_payable": 21459.0
+  },
+  {
+    "source_file": "doc_109.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7652,
+    "doc_number": "P29146",
+    "doc_date": "2026-01-05",
+    "counterparty": "KOHINOOR ELASTICS PVT. LTD.",
+    "buyer_order_ref": "PO EXP2523/02.12.25",
+    "order_date": "2025-12-02",
+    "broker": "SELF",
+    "due_date": "2026-01-15",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04412",
+        "item_description_original": "70/2/140 ROUNDED NYLON OFF TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60456",
+        "shade": "",
+        "quantity": 21.69,
+        "uom": "KGS",
+        "unit_price": 403.0,
+        "amount": 0.0,
+        "raw_line": "1 SA04412 70/2/140 ROUNDED NYLON OFF TWT DYED YAR54N025100NL60456 DIRCNF1851 1 21.690 KGS 403.00 8741.07 -0.26"
+      }
+    ],
+    "total_payable": 276375.0,
+    "discount_pct": 2.0,
+    "discount_amt": 5371.73
+  },
+  {
+    "source_file": "doc_110.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1053,
+    "doc_number": "DDS/00501/25-26",
+    "doc_date": "2026-01-14",
+    "counterparty": "SUPER KNIT INDUSTRIES",
+    "location": "DAMAN Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "20/80 SPD-POLY-AC GREY YARN . - RAW WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 205.0,
+        "amount": 205000.0,
+        "party_po_ref": "5880/05.01.2",
+        "raw_line": "20/80 SPD-POLY-AC GREY YARN . - RAW WHITE 1000.000 205.00 205000.00 5880/05.01.2 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_111.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3863,
+    "doc_number": "P29114",
+    "doc_date": "2026-01-03",
+    "counterparty": "MAHALAXMI ENTERPRISES",
+    "buyer_order_ref": "PO EMAIL/19.12.25",
+    "order_date": "2025-12-19",
+    "broker": "HO",
+    "due_date": "2026-01-07",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02956",
+        "item_description_original": "110D SUPER CATLON DYED",
+        "hsn_code": "54024700",
+        "lot_number": "VP154077",
+        "shade": "ROSE",
+        "quantity": 142.35,
+        "uom": "KGS",
+        "unit_price": 201.0,
+        "amount": 28612.35,
+        "raw_line": "1 DCN02956 110D SUPER CATLON DYED YA5R4N024700VP154077 DKCW102 [ROSE] 8 142.350 KGS 201.00 28612.35"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "DCN02957",
+        "item_description_original": "110D SUPER CATLON DYED",
+        "hsn_code": "54024700",
+        "lot_number": "VP154078",
+        "shade": "",
+        "quantity": 151.33,
+        "uom": "KGS",
+        "unit_price": 201.0,
+        "amount": 30417.33,
+        "raw_line": "2 DCN02957 110D SUPER CATLON DYED YA5R4N024700VP154078 DKSS8010 8 151.330 KGS 201.00 30417.33"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "DCN02959",
+        "item_description_original": "110D SUPER CATLON DYED",
+        "hsn_code": "54024700",
+        "lot_number": "VP154078",
+        "shade": "",
+        "quantity": 176.65,
+        "uom": "KGS",
+        "unit_price": 201.0,
+        "amount": 35506.65,
+        "raw_line": "3 DCN02959 110D SUPER CATLON DYED YA5R4N024700VP154078 DKSS8010 9 176.650 KGS 201.00 35506.65"
+      },
+      {
+        "sr_no": "4",
+        "challan_no": "DCN02960",
+        "item_description_original": "110D SUPER CATLON DYED",
+        "hsn_code": "54024700",
+        "lot_number": "VP154125",
+        "shade": "WINE",
+        "quantity": 169.99,
+        "uom": "KGS",
+        "unit_price": 201.0,
+        "amount": 34167.99,
+        "raw_line": "4 DCN02960 110D SUPER CATLON DYED YA5R4N024700VP154125 DK4011 [WINE] 9 169.990 KGS 201.00 34167.99"
+      }
+    ],
+    "total_payable": 135140.0
+  },
+  {
+    "source_file": "doc_112.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1067,
+    "doc_number": "DDS/00485/25-26",
+    "doc_date": "2026-01-01",
+    "counterparty": "KINGSTON WEAVING INDUSTRIES",
+    "location": "THANE Cash Disc",
+    "agent": "SANJEEV VARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 250.0,
+        "uom": "KGS",
+        "unit_price": 163.0,
+        "amount": 40750.0,
+        "party_po_ref": "EMAIL/01.01",
+        "raw_line": "80/34/600 T-TWT GREY YARN LIGHT - WHITE 250.000 163.00 40750.00 EMAIL/01.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_113.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 1718,
+    "doc_number": "DPY/00363/25-26",
+    "doc_date": "2026-01-23",
+    "counterparty": "CENTURY ENKA LTD.",
+    "payment_terms": "0 days",
+    "ordered_by": "AMIT MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "120/24 NYLON POY",
+        "hsn_code": "54024500",
+        "indent_no": "POY/00363/25-2624",
+        "quantity": 26000.0,
+        "uom": "KGS",
+        "unit_price": 166.0,
+        "amount": 4316000.0,
+        "raw_line": "1 - 120/24 NYLON POY 54024500 POY/00363/25-2624-01-26 26000.000 KGS 166.00 4316000.00 0.00 4316000.00"
+      }
+    ],
+    "remarks": "RATE RS. 166 NET DELIVERED LESS CD PLUS GST & QD RS.2/KG"
+  },
+  {
+    "source_file": "doc_114.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1074,
+    "doc_number": "DDS/00521/25-26",
+    "doc_date": "2026-01-21",
+    "counterparty": "RATUL TEX PVT. LTD.",
+    "location": "BHIWANDI Cash Disc",
+    "agent": "SHRUTI ENTERPRISES Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 200.0,
+        "uom": "KGS",
+        "unit_price": 173.5,
+        "amount": 34700.0,
+        "party_po_ref": "JANKI",
+        "raw_line": "80/34/1000 T-TWT GREY YARN LIGHT - WHITE 200.000 173.50 34700.00 JANKI TRANSPORT 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_115.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3786,
+    "doc_number": "D13235",
+    "doc_date": "2026-01-01",
+    "counterparty": "PAGE INDUSTRIES LTD",
+    "buyer_order_ref": "PO 4525028400",
+    "order_date": "2025-12-10",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-01-31",
+    "line_items": [],
+    "total_payable": 112452.0
+  },
+  {
+    "source_file": "doc_116.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7393,
+    "doc_number": "P29136",
+    "doc_date": "2026-01-04",
+    "counterparty": "SRI VIGNESH TEXTILES",
+    "buyer_order_ref": "PO EMAIL/09.12.25",
+    "order_date": "2025-12-09",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-03",
+    "line_items": [],
+    "total_payable": 217541.0
+  },
+  {
+    "source_file": "doc_117.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3962,
+    "doc_number": "P29126",
+    "doc_date": "2026-01-04",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1696/22.12.25",
+    "order_date": "2025-12-22",
+    "broker": "SELF",
+    "due_date": "2026-02-03",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04393",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60341",
+        "shade": "SEA",
+        "quantity": 3.0,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 39922.74,
+        "raw_line": "1 SA04393 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60341 RGVNY7603SS [SEA S3PRAY8]2.485 KGS 484.00 39922.74"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04395",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60468",
+        "shade": "FUDGE4",
+        "quantity": 98.94,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 47886.96,
+        "raw_line": "2 SA04395 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60468 DIRVNY7312SS[FUDGE4] 98.940 KGS 484.00 47886.96"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04396",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60463",
+        "shade": "GREY",
+        "quantity": 49.85,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 24127.4,
+        "raw_line": "3 SA04396 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60463 DIRVNY7195SS[GREY]2 49.850 KGS 484.00 24127.40"
+      }
+    ],
+    "total_payable": 117534.0
+  },
+  {
+    "source_file": "doc_118.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1111,
+    "doc_number": "DDS/00488/25-26",
+    "doc_date": "2026-01-05",
+    "counterparty": "PINEAPPLE FASHION PRIVATE LIMITED",
+    "location": "BHIWANDI Cash Disc",
+    "agent": "PINEAPPLE FASHION PRIVATE LIMITED Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/72/2/350 FDH-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 165.0,
+        "amount": 165000.0,
+        "party_po_ref": "EMAIL/05.01",
+        "raw_line": "80/72/2/350 FDH-TWT GREY YARN LIGHT - WHITE 1000.000 165.00 165000.00 EMAIL/05.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_119.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 1859,
+    "doc_number": "DPY/00351/25-26",
+    "doc_date": "2026-01-15",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "payment_terms": "3 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "162/34 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00351/25-2615",
+        "quantity": 6000.0,
+        "uom": "KGS",
+        "unit_price": 91.55,
+        "amount": 549300.0,
+        "raw_line": "1 - 162/34 SD POY 54024600 POY/00351/25-2615-01-26 6000.000 KGS 91.55 549300.00 0.00 549300.00"
+      },
+      {
+        "sr_no": "2",
+        "item_description_original": "250/34 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00351/25-2615",
+        "quantity": 8000.0,
+        "uom": "KGS",
+        "unit_price": 88.55,
+        "amount": 708400.0,
+        "raw_line": "2 - 250/34 POY 54024600 POY/00351/25-2615-01-26 8000.000 KGS 88.55 708400.00 0.00 708400.00"
+      }
+    ],
+    "remarks": "RATE BASIC PLUS GST"
+  },
+  {
+    "source_file": "doc_120.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1032,
+    "doc_number": "DDS/00498/25-26",
+    "doc_date": "2026-01-12",
+    "counterparty": "MUDASSAR TEXTILES",
+    "location": "BHIWANDI Cash Disc",
+    "agent": "BIMAL MARKETING LLP Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "80/34/300 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 200.0,
+        "uom": "KGS",
+        "unit_price": 147.0,
+        "amount": 29400.0,
+        "party_po_ref": "KAMLESH",
+        "raw_line": "80/34/300 T-TWT GREY YARN LIGHT - WHITE 200.000 147.00 29400.00 KAMLESH 146+1RD 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_121.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3751,
+    "doc_number": "P29110",
+    "doc_date": "2026-01-03",
+    "counterparty": "BIMAL SINGH KAMAL SINGH",
+    "buyer_order_ref": "PO EMAIL/24.12.25",
+    "order_date": "2025-12-25",
+    "broker": "BIMAL SINGH KAMAL SINGH",
+    "due_date": "2026-01-23",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02947",
+        "item_description_original": "85/34/0 T- DYED YARN",
+        "hsn_code": "54023300",
+        "lot_number": "VP153969",
+        "shade": "LT CE1011",
+        "quantity": 205.93,
+        "uom": "KGS",
+        "unit_price": 197.0,
+        "amount": 40568.21,
+        "raw_line": "1 DCN02947 85/34/0 T- DYED YARN 54023300VP153969 LT CE1011 10 205.930 KGS 197.00 40568.21"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "DCN02948",
+        "item_description_original": "155/34/0 T- DYED YARN",
+        "hsn_code": "54023300",
+        "lot_number": "VP154030",
+        "shade": "",
+        "quantity": 197.37,
+        "uom": "KGS",
+        "unit_price": 200.0,
+        "amount": 39474.0,
+        "raw_line": "2 DCN02948 155/34/0 T- DYED YARN 54023300VP154030 DKCE1360 12 197.370 KGS 200.00 39474.00"
+      }
+    ],
+    "total_payable": 81128.0,
+    "discount_pct": 2.0,
+    "discount_amt": 1600.84
+  },
+  {
+    "source_file": "doc_122.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3727,
+    "doc_number": "P29143",
+    "doc_date": "2026-01-05",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1757/30.12.25",
+    "order_date": "2025-12-30",
+    "broker": "SELF",
+    "due_date": "2026-02-04",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04407",
+        "item_description_original": "75/48/2/80 HT-TWT DYED",
+        "hsn_code": "54025210",
+        "lot_number": "VP154202",
+        "shade": "BLACK",
+        "quantity": 434.415,
+        "uom": "KGS",
+        "unit_price": 191.0,
+        "amount": 82973.27,
+        "raw_line": "1 SA04407 75/48/2/80 HT-TWT DYED YARN54025210VP154202 DK1V2HB4098 [BLACK]12 434.415 KGS 191.00 82973.27"
+      }
+    ],
+    "total_payable": 87122.0
+  },
+  {
+    "source_file": "doc_123.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3626,
+    "doc_number": "P29121",
+    "doc_date": "2026-01-03",
+    "counterparty": "PAGE INDUSTRIES LTD",
+    "buyer_order_ref": "PO 4525028971",
+    "order_date": "2025-12-10",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-02",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04383",
+        "item_description_original": "70/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60334",
+        "shade": "RICH",
+        "quantity": 13.0,
+        "uom": "KGS",
+        "unit_price": 368.0,
+        "amount": 48053.44,
+        "raw_line": "1 SA04383 70/2/80 NYLON TWT DYED YAR5N4025100NL60334 RGVSD254 [RICH ROY6AL B13L0U.E58]0 KGS 368.00 48053.44"
+      }
+    ],
+    "total_payable": 50456.0
+  },
+  {
+    "source_file": "doc_124.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1094,
+    "doc_number": "DDS/00529/25-26",
+    "doc_date": "2026-01-22",
+    "counterparty": "RESPA TEXTILES PRIVATE LIMITED",
+    "location": "NOIDA Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 2000.0,
+        "uom": "KGS",
+        "unit_price": 470.0,
+        "amount": 940000.0,
+        "party_po_ref": "070/22.01.20",
+        "raw_line": ". - RAW WHITE 2000.000 470.00 940000.00 070/22.01.20 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_125.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3618,
+    "doc_number": "D13237",
+    "doc_date": "2026-01-04",
+    "counterparty": "SRI VIGNESH TEXTILES",
+    "buyer_order_ref": "PO EMAIL/15.12.25",
+    "order_date": "2025-12-15",
+    "broker": "SRI VIGNESH TEXTILES",
+    "due_date": "2026-02-03",
+    "line_items": [],
+    "total_payable": 147479.0
+  },
+  {
+    "source_file": "doc_126.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 1720,
+    "doc_number": "DPY/00369/25-26",
+    "doc_date": "2026-01-28",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "payment_terms": "3 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "505/96 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00369/25-2628",
+        "quantity": 5100.0,
+        "uom": "KGS",
+        "unit_price": 89.8,
+        "amount": 457980.0,
+        "raw_line": "1 - 505/96 POY 54024600 POY/00369/25-2628-01-26 5100.000 KGS 89.80 457980.00 0.00 457980.00"
+      }
+    ],
+    "remarks": "RATE BASIC PLUS GST"
+  },
+  {
+    "source_file": "doc_127.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3646,
+    "doc_number": "D13240",
+    "doc_date": "2026-01-04",
+    "counterparty": "N K INDUSTRIES",
+    "buyer_order_ref": "PO EMAIL/22.11.25",
+    "order_date": "2025-11-24",
+    "broker": "ANOOP SHARMA",
+    "due_date": "2026-01-08",
+    "line_items": [],
+    "total_payable": 69936.0
+  },
+  {
+    "source_file": "doc_128.pdf",
+    "doc_type": "GOODS_RECEIPT_NOTE",
+    "raw_text_length": 1490,
+    "doc_number": "DYT/01563/25-26",
+    "doc_date": "2025-12-20",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "supplier_invoice_no": "26183000089801",
+    "supplier_invoice_date": "2025-12-18",
+    "po_reference": "DPY/00280/25-26",
+    "transporter": "HENI ROADLINES",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "162/34 SD POY",
+        "grade": "IST",
+        "hsn_code": "54024600",
+        "quantity": 3538.808,
+        "uom": "KGS",
+        "unit_price": 91.25,
+        "amount": 322916.23,
+        "raw_line": "1 162/34 SD POY IST 54024600 141C1MD82 7 252 3538.808 KGS 91.25 322916.23 5.00 0.00 0.00 8072.91 8072.91 0.00 339062.05"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_129.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 2672,
+    "doc_number": "DPY/00193/25-26",
+    "doc_date": "2025-09-16",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "payment_terms": "3 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "108/36 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 20000.0,
+        "uom": "KGS",
+        "unit_price": 98.78,
+        "amount": 1975600.0,
+        "raw_line": "1 - 108/36 POY 54024600 POY/00193/25-2616-09-25 20000.000 KGS 98.78 1975600.00 0.00 1975600.00"
+      },
+      {
+        "sr_no": "2",
+        "item_description_original": "126/34 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 240000.0,
+        "uom": "KGS",
+        "unit_price": 96.55,
+        "amount": 23172000.0,
+        "raw_line": "2 - 126/34 POY 54024600 POY/00193/25-2616-09-25 240000.000 KGS 96.55 23172000.00 0.00 23172000.00"
+      },
+      {
+        "sr_no": "3",
+        "item_description_original": "126/48 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 20000.0,
+        "uom": "KGS",
+        "unit_price": 96.55,
+        "amount": 1931000.0,
+        "raw_line": "3 - 126/48 POY 54024600 POY/00193/25-2616-09-25 20000.000 KGS 96.55 1931000.00 0.00 1931000.00"
+      },
+      {
+        "sr_no": "4",
+        "item_description_original": "160/48 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 12000.0,
+        "uom": "KGS",
+        "unit_price": 95.55,
+        "amount": 1146600.0,
+        "raw_line": "4 - 160/48 SD POY 54024600 POY/00193/25-2616-09-25 12000.000 KGS 95.55 1146600.00 0.00 1146600.00"
+      },
+      {
+        "sr_no": "5",
+        "item_description_original": "160/72 BRT POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 192.0,
+        "uom": "KGS",
+        "unit_price": 184.0,
+        "amount": 35328.0,
+        "raw_line": "5 - 160/72 BRT POY 54024600 POY/00193/25-2616-09-25 192.000 KGS 184.00 35328.00 0.00 35328.00"
+      },
+      {
+        "sr_no": "6",
+        "item_description_original": "165/34 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 8000.0,
+        "uom": "KGS",
+        "unit_price": 95.55,
+        "amount": 764400.0,
+        "raw_line": "6 - 165/34 POY 54024600 POY/00193/25-2616-09-25 8000.000 KGS 95.55 764400.00 0.00 764400.00"
+      },
+      {
+        "sr_no": "7",
+        "item_description_original": "230/48 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 4000.0,
+        "uom": "KGS",
+        "unit_price": 94.05,
+        "amount": 376200.0,
+        "raw_line": "7 - 230/48 SD POY 54024600 POY/00193/25-2616-09-25 4000.000 KGS 94.05 376200.00 0.00 376200.00"
+      },
+      {
+        "sr_no": "8",
+        "item_description_original": "250/34 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 24000.0,
+        "uom": "KGS",
+        "unit_price": 93.55,
+        "amount": 2245200.0,
+        "raw_line": "8 - 250/34 POY 54024600 POY/00193/25-2616-09-25 24000.000 KGS 93.55 2245200.00 0.00 2245200.00"
+      },
+      {
+        "sr_no": "9",
+        "item_description_original": "250/48 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 8000.0,
+        "uom": "KGS",
+        "unit_price": 93.55,
+        "amount": 748400.0,
+        "raw_line": "9 - 250/48 POY 54024600 POY/00193/25-2616-09-25 8000.000 KGS 93.55 748400.00 0.00 748400.00"
+      },
+      {
+        "sr_no": "10",
+        "item_description_original": "80/36 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00193/25-2616",
+        "quantity": 4000.0,
+        "uom": "KGS",
+        "unit_price": 102.55,
+        "amount": 410200.0,
+        "raw_line": "10 - 80/36 POY 54024600 POY/00193/25-2616-09-25 4000.000 KGS 102.55 410200.00 0.00 410200.00"
+      }
+    ],
+    "remarks": "RATE NET DELIVERED PLUS GST"
+  },
+  {
+    "source_file": "doc_130.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3505,
+    "doc_number": "P29152",
+    "doc_date": "2026-01-05",
+    "counterparty": "H S DEVARAJU SILKS",
+    "buyer_order_ref": "PO EMAIL/11.12.25",
+    "order_date": "2025-12-11",
+    "broker": "R RAMESH",
+    "due_date": "2026-01-09",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02980",
+        "item_description_original": "110/36 CATEX DYED YARN",
+        "hsn_code": "54024700",
+        "lot_number": "VP154143",
+        "shade": "LT CTW48B BOTTLE",
+        "quantity": 6.0,
+        "uom": "KGS",
+        "unit_price": 209.0,
+        "amount": 21922.01,
+        "raw_line": "1 DCN02980 110/36 CATEX DYED YARN 54024700VP154143 LT CTW48B [BOTTLE G6RE1E0N4].890 KGS 209.00 21922.01"
+      }
+    ],
+    "total_payable": 23018.0
+  },
+  {
+    "source_file": "doc_131.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 2144,
+    "doc_number": "DPY/00280/25-26",
+    "doc_date": "2025-11-25",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "payment_terms": "3 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "122/72 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00280/25-2625",
+        "quantity": 6000.0,
+        "uom": "KGS",
+        "unit_price": 93.55,
+        "amount": 561300.0,
+        "raw_line": "1 - 122/72 POY 54024600 POY/00280/25-2625-11-25 6000.000 KGS 93.55 561300.00 0.00 561300.00"
+      },
+      {
+        "sr_no": "2",
+        "item_description_original": "162/34 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00280/25-2625",
+        "quantity": 12000.0,
+        "uom": "KGS",
+        "unit_price": 91.55,
+        "amount": 1098600.0,
+        "raw_line": "2 - 162/34 SD POY 54024600 POY/00280/25-2625-11-25 12000.000 KGS 91.55 1098600.00 0.00 1098600.00"
+      },
+      {
+        "sr_no": "3",
+        "item_description_original": "250/34 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00280/25-2625",
+        "quantity": 16000.0,
+        "uom": "KGS",
+        "unit_price": 88.55,
+        "amount": 1416800.0,
+        "raw_line": "3 - 250/34 POY 54024600 POY/00280/25-2625-11-25 16000.000 KGS 88.55 1416800.00 0.00 1416800.00"
+      },
+      {
+        "sr_no": "4",
+        "item_description_original": "265/48 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00280/25-2625",
+        "quantity": 15000.0,
+        "uom": "KGS",
+        "unit_price": 87.3,
+        "amount": 1309500.0,
+        "raw_line": "4 - 265/48 SD POY 54024600 POY/00280/25-2625-11-25 15000.000 KGS 87.30 1309500.00 0.00 1309500.00"
+      },
+      {
+        "sr_no": "5",
+        "item_description_original": "80/34 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00280/25-2625",
+        "quantity": 4000.0,
+        "uom": "KGS",
+        "unit_price": 98.55,
+        "amount": 394200.0,
+        "raw_line": "5 - 80/34 SD POY 54024600 POY/00280/25-2625-11-25 4000.000 KGS 98.55 394200.00 0.00 394200.00"
+      }
+    ],
+    "remarks": "RATE BASIC PLUS GST"
+  },
+  {
+    "source_file": "doc_132.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3675,
+    "doc_number": "P29116",
+    "doc_date": "2026-01-03",
+    "counterparty": "DEVISHREE ENTERPRISES",
+    "buyer_order_ref": "PO EMAIL/10.12.25",
+    "order_date": "2025-12-11",
+    "broker": "R RAMESH",
+    "due_date": "2026-01-07",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02958",
+        "item_description_original": "110/36 CATEX DYED YARN",
+        "hsn_code": "54024700",
+        "lot_number": "VP154114",
+        "shade": "DKCAT-106",
+        "quantity": 290.01,
+        "uom": "KGS",
+        "unit_price": 208.0,
+        "amount": 60322.08,
+        "raw_line": "1 DCN02958 110/36 CATEX DYED YARN 54024700VP154114 DKCAT-106 16 290.010 KGS 208.00 60322.08"
+      }
+    ],
+    "total_payable": 63338.0
+  },
+  {
+    "source_file": "doc_133.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1035,
+    "doc_number": "DDS/00532/25-26",
+    "doc_date": "2026-01-22",
+    "counterparty": "",
+    "location": "DELHI Cash Disc",
+    "agent": "BIMAL SINGH KAMAL SINGH Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "100/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 1000.0,
+        "uom": "KGS",
+        "unit_price": 163.0,
+        "amount": 163000.0,
+        "party_po_ref": "EMAIL/22.01",
+        "raw_line": "100/34/600 T-TWT GREY YARN LIGHT - WHITE 1000.000 163.00 163000.00 EMAIL/22.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_134.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7239,
+    "doc_number": "P29153",
+    "doc_date": "2026-01-05",
+    "counterparty": "KOHINOOR ELASTICS PVT. LTD.",
+    "buyer_order_ref": "PO EXP2410/25.11.25",
+    "order_date": "2025-11-25",
+    "broker": "SELF",
+    "due_date": "2026-01-15",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04432",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60559",
+        "shade": "",
+        "quantity": 4.0,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 56899.02,
+        "raw_line": "1 SA04432 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60559 DIRCNF2707SS[WOLF 4GRE1Y23].963 KGS 459.00 56899.02"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04433",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60339",
+        "shade": "",
+        "quantity": 23.08,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 10593.72,
+        "raw_line": "2 SA04433 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60339 DIRCNF3261SS 1 23.080 KGS 459.00 10593.72"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04434",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60398",
+        "shade": "BLACK",
+        "quantity": 386.74,
+        "uom": "KGS",
+        "unit_price": 464.0,
+        "amount": 179447.36,
+        "raw_line": "3 SA04434 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60398 DK5VSD3SS[BLACK] 14 386.740 KGS 464.00 179447.36"
+      },
+      {
+        "sr_no": "4",
+        "challan_no": "SA04435",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60312",
+        "shade": "SCOOTER1",
+        "quantity": 18.2,
+        "uom": "KGS",
+        "unit_price": 532.0,
+        "amount": 9682.4,
+        "raw_line": "4 SA04435 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60312 VSD72SS[SCOOTER1] 18.200 KGS 532.00 9682.40"
+      }
+    ],
+    "total_payable": 264065.0,
+    "discount_pct": 2.0,
+    "discount_amt": 5132.45
+  },
+  {
+    "source_file": "doc_135.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1036,
+    "doc_number": "DDS/00472/25-26",
+    "doc_date": "2025-12-27",
+    "counterparty": "",
+    "location": "DELHI Cash Disc",
+    "agent": "BIMAL SINGH KAMAL SINGH Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "100/34/600 T-TWT GREY YARN LIGHT - WHITE",
+        "quantity": 1500.0,
+        "uom": "KGS",
+        "unit_price": 162.0,
+        "amount": 243000.0,
+        "party_po_ref": "EMAIL/27.12",
+        "raw_line": "100/34/600 T-TWT GREY YARN LIGHT - WHITE 1500.000 162.00 243000.00 EMAIL/27.12 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_136.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3685,
+    "doc_number": "P29117",
+    "doc_date": "2026-01-03",
+    "counterparty": "KOHINOOR ELASTICS PVT. LTD.",
+    "buyer_order_ref": "PO EXP2693/13.12.2025",
+    "order_date": "2025-12-13",
+    "broker": "SELF",
+    "due_date": "2026-01-13",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04376",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60348",
+        "shade": "TURB1U3LAN3C56E.",
+        "quantity": 356.86,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 163798.74,
+        "raw_line": "1 SA04376 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60348 DIRCNF1440SS[TURB1U3LAN3C56E.]860 KGS 459.00 163798.74"
+      }
+    ],
+    "total_payable": 168549.0,
+    "discount_pct": 2.0,
+    "discount_amt": 3275.97
+  },
+  {
+    "source_file": "doc_137.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 2270,
+    "doc_number": "DPY/00338/25-26",
+    "doc_date": "2026-01-05",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "payment_terms": "3 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "122/72 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00338/25-2605",
+        "quantity": 8000.0,
+        "uom": "KGS",
+        "unit_price": 93.55,
+        "amount": 748400.0,
+        "raw_line": "1 - 122/72 POY 54024600 POY/00338/25-2605-01-26 8000.000 KGS 93.55 748400.00 0.00 748400.00"
+      },
+      {
+        "sr_no": "2",
+        "item_description_original": "126/34 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00338/25-2605",
+        "quantity": 40000.0,
+        "uom": "KGS",
+        "unit_price": 92.55,
+        "amount": 3702000.0,
+        "raw_line": "2 - 126/34 POY 54024600 POY/00338/25-2605-01-26 40000.000 KGS 92.55 3702000.00 0.00 3702000.00"
+      },
+      {
+        "sr_no": "3",
+        "item_description_original": "126/48 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00338/25-2605",
+        "quantity": 30000.0,
+        "uom": "KGS",
+        "unit_price": 92.55,
+        "amount": 2776500.0,
+        "raw_line": "3 - 126/48 POY 54024600 POY/00338/25-2605-01-26 30000.000 KGS 92.55 2776500.00 0.00 2776500.00"
+      },
+      {
+        "sr_no": "4",
+        "item_description_original": "162/34 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00338/25-2605",
+        "quantity": 16000.0,
+        "uom": "KGS",
+        "unit_price": 91.55,
+        "amount": 1464800.0,
+        "raw_line": "4 - 162/34 SD POY 54024600 POY/00338/25-2605-01-26 16000.000 KGS 91.55 1464800.00 0.00 1464800.00"
+      },
+      {
+        "sr_no": "5",
+        "item_description_original": "250/144 FD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00338/25-2605",
+        "quantity": 6000.0,
+        "uom": "KGS",
+        "unit_price": 104.78,
+        "amount": 628680.0,
+        "raw_line": "5 - 250/144 FD POY 54024600 POY/00338/25-2605-01-26 6000.000 KGS 104.78 628680.00 0.00 628680.00"
+      },
+      {
+        "sr_no": "6",
+        "item_description_original": "250/34 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00338/25-2605",
+        "quantity": 30000.0,
+        "uom": "KGS",
+        "unit_price": 88.55,
+        "amount": 2656500.0,
+        "raw_line": "6 - 250/34 POY 54024600 POY/00338/25-2605-01-26 30000.000 KGS 88.55 2656500.00 0.00 2656500.00"
+      }
+    ],
+    "remarks": "RATE BASIC PLUS GST"
+  },
+  {
+    "source_file": "doc_138.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3779,
+    "doc_number": "P29139",
+    "doc_date": "2026-01-04",
+    "counterparty": "WHITE ROSE TEXTILES LLP",
+    "buyer_order_ref": "PO 85/26.11.25",
+    "order_date": "2025-12-10",
+    "broker": "HO",
+    "due_date": "2026-01-19",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04401",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60277",
+        "shade": "BEIGE",
+        "quantity": 6.0,
+        "uom": "KGS",
+        "unit_price": 330.0,
+        "amount": 35755.5,
+        "raw_line": "1 SA04401 111/2/80 NYLON TWT DYED YAR54N025100NL60277 DIRVNY7238 [BEIGE] R6M03100180.3050015K9GS 330.00 35755.50"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04402",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60309",
+        "shade": "BEIGE",
+        "quantity": 8.0,
+        "uom": "KGS",
+        "unit_price": 330.0,
+        "amount": 47977.05,
+        "raw_line": "2 SA04402 111/2/80 NYLON TWT DYED YAR54N025100NL60309 DIRVNY7238 [BEIGE] R8M03104150.3080515K9GS 330.00 47977.05"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04403",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60319",
+        "shade": "BEIGE",
+        "quantity": 18.0,
+        "uom": "KGS",
+        "unit_price": 330.0,
+        "amount": 114328.5,
+        "raw_line": "3 SA04403 111/2/80 NYLON TWT DYED YAR54N025100NL60319 DIRVNY7238 [BEIGE] R18M03304160.4050015K9GS 330.00 114328.50"
+      }
+    ],
+    "total_payable": 207964.0
+  },
+  {
+    "source_file": "doc_139.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1108,
+    "doc_number": "DDS/00509/25-26",
+    "doc_date": "2026-01-16",
+    "counterparty": "SPICA INDUSTRIES PRIVATE LIMITED",
+    "location": "KHANDALA Cash Disc",
+    "agent": "SONAL TEXTILE INDUSTRIES Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 700.0,
+        "uom": "KGS",
+        "unit_price": 365.0,
+        "amount": 255500.0,
+        "party_po_ref": "0",
+        "raw_line": ". - RAW WHITE 700.000 365.00 255500.00 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_140.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3835,
+    "doc_number": "P29124",
+    "doc_date": "2026-01-04",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1652/11.12.25",
+    "order_date": "2025-12-11",
+    "broker": "SELF",
+    "due_date": "2026-02-03",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04390",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60295",
+        "shade": "",
+        "quantity": 2.0,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 11221.54,
+        "raw_line": "1 SA04390 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60295 DIRVNY7589SS[BRING1 SEA2]3.185 KGS 484.00 11221.54"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04392",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60475",
+        "shade": "BLUE",
+        "quantity": 1.0,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 13210.78,
+        "raw_line": "2 SA04392 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60475 RGVNY7604SS [BLUE 1MIRA2G7E.2]95 KGS 484.00 13210.78"
+      }
+    ],
+    "total_payable": 25654.0
+  },
+  {
+    "source_file": "doc_141.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1030,
+    "doc_number": "DDS/00502/25-26",
+    "doc_date": "2026-01-14",
+    "counterparty": "N K INDUSTRIES",
+    "location": "DELHI Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 300.0,
+        "uom": "KGS",
+        "unit_price": 305.0,
+        "amount": 91500.0,
+        "party_po_ref": "EMAIL/10.01",
+        "raw_line": ". - RAW WHITE 300.000 305.00 91500.00 EMAIL/10.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_142.pdf",
+    "doc_type": "PURCHASE_REQUISITION",
+    "raw_text_length": 1780,
+    "doc_number": "POY/00193/25-26",
+    "doc_date": "2025-09-16",
+    "counterparty": "INTERNAL REQUISITION",
+    "line_items": [
+      {
+        "item_description_original": "108/36 POY",
+        "quantity": 20000.0,
+        "uom": "KGS",
+        "unit_price": 98.78,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "108/36 POY 20000.000 KGS 98.78 RELIANCE INDUSTRIES LTD 16-Sep-2025 3662.850 0.000 4026.580"
+      },
+      {
+        "item_description_original": "126/34 POY",
+        "quantity": 240000.0,
+        "uom": "KGS",
+        "unit_price": 96.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "126/34 POY 240000.000 KGS 96.55 RELIANCE INDUSTRIES LTD 16-Sep-2025 7435.506 0.000 129557.888"
+      },
+      {
+        "item_description_original": "126/48 POY",
+        "quantity": 20000.0,
+        "uom": "KGS",
+        "unit_price": 96.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "126/48 POY 20000.000 KGS 96.55 RELIANCE INDUSTRIES LTD 16-Sep-2025 5846.420 0.000 105741.010"
+      },
+      {
+        "item_description_original": "160/48 SD POY",
+        "quantity": 12000.0,
+        "uom": "KGS",
+        "unit_price": 95.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "160/48 SD POY 12000.000 KGS 95.55 RELIANCE INDUSTRIES LTD 16-Sep-2025 12225.416 0.000 46555.940"
+      },
+      {
+        "item_description_original": "160/72 BRT POY",
+        "quantity": 8000.0,
+        "uom": "KGS",
+        "unit_price": 97.3,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "160/72 BRT POY 8000.000 KGS 97.30 RELIANCE INDUSTRIES LTD 16-Sep-2025 7995.560 0.000 18423.650"
+      },
+      {
+        "item_description_original": "165/34 POY",
+        "quantity": 8000.0,
+        "uom": "KGS",
+        "unit_price": 95.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "165/34 POY 8000.000 KGS 95.55 RELIANCE INDUSTRIES LTD 16-Sep-2025 14129.970 0.000 41391.000"
+      },
+      {
+        "item_description_original": "230/48 SD POY",
+        "quantity": 4000.0,
+        "uom": "KGS",
+        "unit_price": 94.05,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "230/48 SD POY 4000.000 KGS 94.05 RELIANCE INDUSTRIES LTD 16-Sep-2025 2755.232 0.000 2512.020"
+      },
+      {
+        "item_description_original": "250/34 POY",
+        "quantity": 24000.0,
+        "uom": "KGS",
+        "unit_price": 93.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "250/34 POY 24000.000 KGS 93.55 RELIANCE INDUSTRIES LTD 16-Sep-2025 1375.496 0.000 51893.990"
+      },
+      {
+        "item_description_original": "250/48 POY",
+        "quantity": 8000.0,
+        "uom": "KGS",
+        "unit_price": 93.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "250/48 POY 8000.000 KGS 93.55 RELIANCE INDUSTRIES LTD 16-Sep-2025 8324.720 0.000 21361.940"
+      },
+      {
+        "item_description_original": "80/36 POY",
+        "quantity": 4000.0,
+        "uom": "KGS",
+        "unit_price": 102.55,
+        "vendor": "RELIANCE INDUSTRIES LTD",
+        "delivery_date": "2025-09-16",
+        "raw_line": "80/36 POY 4000.000 KGS 102.55 RELIANCE INDUSTRIES LTD 16-Sep-2025 0.000 0.000 0.000"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_143.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3689,
+    "doc_number": "D13242",
+    "doc_date": "2026-01-04",
+    "counterparty": "KINGSTON WEAVING INDUSTRIES",
+    "buyer_order_ref": "PO EMAIL/01.01.26",
+    "order_date": "2026-01-01",
+    "broker": "SANJEEV VARMA",
+    "due_date": "2026-01-08",
+    "line_items": [],
+    "total_payable": 43851.0,
+    "discount_pct": 0.5,
+    "discount_amt": 209.86
+  },
+  {
+    "source_file": "doc_144.pdf",
+    "doc_type": "PACKING_LIST",
+    "raw_text_length": 1869,
+    "doc_date": "",
+    "doc_number": "",
+    "counterparty": "VALSON (INTERNAL)",
+    "department": "",
+    "line_items": []
+  },
+  {
+    "source_file": "doc_145.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1044,
+    "doc_number": "DDS/00524/25-26",
+    "doc_date": "2026-01-22",
+    "counterparty": "FRAM CREATIONS LLP",
+    "location": "GHAZIABAD Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": ". - RAW WHITE",
+        "quantity": 100.0,
+        "uom": "KGS",
+        "unit_price": 495.0,
+        "amount": 49500.0,
+        "party_po_ref": "168/16.01.20",
+        "raw_line": ". - RAW WHITE 100.000 495.00 49500.00 168/16.01.20 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_146.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3730,
+    "doc_number": "P29127",
+    "doc_date": "2026-01-04",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1652/11.12.25",
+    "order_date": "2025-12-11",
+    "broker": "SELF",
+    "due_date": "2026-02-03",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04394",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60321",
+        "shade": "",
+        "quantity": 48.205,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 23331.22,
+        "raw_line": "1 SA04394 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60321 RGVNY7602SS [ARON3A] 48.205 KGS 484.00 23331.22"
+      }
+    ],
+    "total_payable": 24498.0
+  },
+  {
+    "source_file": "doc_147.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3788,
+    "doc_number": "P29123",
+    "doc_date": "2026-01-04",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1722/25.12.25",
+    "order_date": "2025-12-25",
+    "broker": "SELF",
+    "due_date": "2026-01-08",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04389",
+        "item_description_original": "300/96 SD LIM RECYCLED",
+        "hsn_code": "54023300",
+        "lot_number": "",
+        "shade": "LT RCR-109",
+        "quantity": 98.59,
+        "uom": "KGS",
+        "unit_price": 248.5,
+        "amount": 24499.62,
+        "raw_line": "1 SA04389 300/96 SD LIM RECYCLED POLY5E40S2T3E3R0 0DVYPE1D5 Y39A4R7N LT RCR-109 3 98.590 KGS 248.50 24499.62"
+      }
+    ],
+    "total_payable": 25725.0
+  },
+  {
+    "source_file": "doc_148.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3788,
+    "doc_number": "P29101",
+    "doc_date": "2026-01-01",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1722/25.12.25",
+    "order_date": "2025-12-25",
+    "broker": "SELF",
+    "due_date": "2026-01-05",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04331",
+        "item_description_original": "300/96 SD LIM RECYCLED",
+        "hsn_code": "54023300",
+        "lot_number": "",
+        "shade": "LT RCR-108",
+        "quantity": 100.74,
+        "uom": "KGS",
+        "unit_price": 248.5,
+        "amount": 25033.89,
+        "raw_line": "1 SA04331 300/96 SD LIM RECYCLED POLY5E40S2T3E3R0 0DVYPE1D5 Y39A2R7N LT RCR-108 3 100.740 KGS 248.50 25033.89"
+      }
+    ],
+    "total_payable": 26286.0
+  },
+  {
+    "source_file": "doc_149.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 1817,
+    "doc_number": "DPY/00358/25-26",
+    "doc_date": "2026-01-20",
+    "counterparty": "RELIANCE POLYESTER LIMITED",
+    "payment_terms": "0 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "250/36 SD RECYCLED POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00358/25-2620",
+        "quantity": 20000.0,
+        "uom": "KGS",
+        "unit_price": 105.55,
+        "amount": 2111000.0,
+        "raw_line": "1 - 250/36 SD RECYCLED POY 54024600 POY/00358/25-2620-01-26 20000.000 KGS 105.55 2111000.00 0.00 2111000.00"
+      }
+    ],
+    "remarks": "RATE BASIC PLUS GST"
+  },
+  {
+    "source_file": "doc_150.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 1964,
+    "doc_number": "DPY/00359/25-26",
+    "doc_date": "2026-01-20",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "payment_terms": "3 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "110/36 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00359/25-2620",
+        "quantity": 12000.0,
+        "uom": "KGS",
+        "unit_price": 95.75,
+        "amount": 1149000.0,
+        "raw_line": "1 - 110/36 SD POY 54024600 POY/00359/25-2620-01-26 12000.000 KGS 95.75 1149000.00 0.00 1149000.00"
+      },
+      {
+        "sr_no": "2",
+        "item_description_original": "122/72 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00359/25-2620",
+        "quantity": 12000.0,
+        "uom": "KGS",
+        "unit_price": 94.55,
+        "amount": 1134600.0,
+        "raw_line": "2 - 122/72 POY 54024600 POY/00359/25-2620-01-26 12000.000 KGS 94.55 1134600.00 0.00 1134600.00"
+      },
+      {
+        "sr_no": "3",
+        "item_description_original": "123/72 FD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00359/25-2620",
+        "quantity": 12000.0,
+        "uom": "KGS",
+        "unit_price": 102.05,
+        "amount": 1224600.0,
+        "raw_line": "3 - 123/72 FD POY 54024600 POY/00359/25-2620-01-26 12000.000 KGS 102.05 1224600.00 0.00 1224600.00"
+      }
+    ],
+    "remarks": "RATE BASIC PLUS GST"
+  },
+  {
+    "source_file": "doc_151.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1040,
+    "doc_number": "DDS/00503/25-26",
+    "doc_date": "2026-01-14",
+    "counterparty": "N K INDUSTRIES",
+    "location": "DELHI Cash Disc",
+    "agent": "ANOOP SHARMA Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "DARK+10 - BLACK",
+        "quantity": 500.0,
+        "uom": "KGS",
+        "unit_price": 315.0,
+        "amount": 157500.0,
+        "party_po_ref": "EMAIL/10.01",
+        "raw_line": "DARK+10 - BLACK 500.000 315.00 157500.00 EMAIL/10.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_152.pdf",
+    "doc_type": "PACKING_LIST",
+    "raw_text_length": 3218,
+    "doc_date": "",
+    "doc_number": "",
+    "counterparty": "VALSON (INTERNAL)",
+    "department": "",
+    "line_items": []
+  },
+  {
+    "source_file": "doc_153.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3742,
+    "doc_number": "P29100",
+    "doc_date": "2026-01-01",
+    "counterparty": "MAHALAXMI ENTERPRISES",
+    "buyer_order_ref": "PO EMAIL/17.12.25",
+    "order_date": "2025-12-17",
+    "broker": "HO",
+    "due_date": "2026-01-05",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02950",
+        "item_description_original": "110D SUPER CATLON DYED",
+        "hsn_code": "54024700",
+        "lot_number": "VP154125",
+        "shade": "WINE",
+        "quantity": 163.42,
+        "uom": "KGS",
+        "unit_price": 201.0,
+        "amount": 32847.42,
+        "raw_line": "1 DCN02950 110D SUPER CATLON DYED YA5R4N024700VP154125 DK4011 [WINE] 9 163.420 KGS 201.00 32847.42"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "DCN02953",
+        "item_description_original": "110D SUPER CATLON DYED",
+        "hsn_code": "54024700",
+        "lot_number": "VP153537",
+        "shade": "RED",
+        "quantity": 151.2,
+        "uom": "KGS",
+        "unit_price": 201.0,
+        "amount": 30391.2,
+        "raw_line": "2 DCN02953 110D SUPER CATLON DYED YA5R4N024700VP153537 DK1S5SY63 [RED] 8 151.200 KGS 201.00 30391.20"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "DCN02954",
+        "item_description_original": "110D SUPER CATLON DYED",
+        "hsn_code": "54024700",
+        "lot_number": "VP153537",
+        "shade": "RED",
+        "quantity": 151.55,
+        "uom": "KGS",
+        "unit_price": 201.0,
+        "amount": 30461.55,
+        "raw_line": "3 DCN02954 110D SUPER CATLON DYED YA5R4N024700VP153537 DK1S5SY63 [RED] 8 151.550 KGS 201.00 30461.55"
+      }
+    ],
+    "total_payable": 98385.0
+  },
+  {
+    "source_file": "doc_154.pdf",
+    "doc_type": "DELIVERY_INSTRUCTION",
+    "raw_text_length": 1027,
+    "doc_number": "DDS/00534/25-26",
+    "doc_date": "2026-01-23",
+    "counterparty": "LAXMINATH TEXTILES",
+    "location": "ICHALKARANJI Cash Disc",
+    "agent": "SELF Modvat : No",
+    "transaction_type": "DTA/LOCAL Sp. Disc.",
+    "special_discount_pct": 0.0,
+    "line_items": [
+      {
+        "item_description_original": "LIGHT - WHITE",
+        "quantity": 8000.0,
+        "uom": "KGS",
+        "unit_price": 150.0,
+        "amount": 1200000.0,
+        "party_po_ref": "EMAIL/23.01",
+        "raw_line": "LIGHT - WHITE 8000.000 150.00 1200000.00 EMAIL/23.01 0 - 0"
+      }
+    ]
+  },
+  {
+    "source_file": "doc_155.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 7226,
+    "doc_number": "P29104",
+    "doc_date": "2026-01-01",
+    "counterparty": "KOHINOOR ELASTICS PVT. LTD.",
+    "buyer_order_ref": "PO EXP2387/22.11.25",
+    "order_date": "2025-11-22",
+    "broker": "SELF",
+    "due_date": "2026-01-11",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04336",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60011",
+        "shade": "",
+        "quantity": 94.32,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 43292.88,
+        "raw_line": "1 SA04336 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60011 DIRCNF2097SS 4 94.320 KGS 459.00 43292.88"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04337",
+        "item_description_original": "70/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60357",
+        "shade": "",
+        "quantity": 29.205,
+        "uom": "KGS",
+        "unit_price": 403.0,
+        "amount": 11769.62,
+        "raw_line": "2 SA04337 70/2/140 NYLON TWT DYED YAR54N025100NL60357 DIRCNF940 2 29.205 KGS 403.00 11769.62"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04338",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60380",
+        "shade": "",
+        "quantity": 8.0,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 4011.66,
+        "raw_line": "3 SA04338 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60380 DIRCNF2758SS[SILVER1 LAKE8 .B7L4U0EK]GS 459.00 4011.66"
+      },
+      {
+        "sr_no": "4",
+        "challan_no": "SA04339",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60186",
+        "shade": "",
+        "quantity": 19.425,
+        "uom": "KGS",
+        "unit_price": 459.0,
+        "amount": 8916.08,
+        "raw_line": "4 SA04339 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60186 DIRCNF3242SS 1 19.425 KGS 459.00 8916.08"
+      }
+    ],
+    "total_payable": 69962.0,
+    "discount_pct": 2.0,
+    "discount_amt": 1359.8
+  },
+  {
+    "source_file": "doc_156.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3739,
+    "doc_number": "P29112",
+    "doc_date": "2026-01-03",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1696/22.12.25",
+    "order_date": "2025-12-22",
+    "broker": "SELF",
+    "due_date": "2026-02-02",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04366",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60243",
+        "shade": "INK",
+        "quantity": 3.0,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 29826.5,
+        "raw_line": "1 SA04366 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60243 DKVNY7182SS [INK BL3UE]61.625 KGS 484.00 29826.50"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04367",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60290",
+        "shade": "BISCAY2BAY5",
+        "quantity": 55.51,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 26866.84,
+        "raw_line": "2 SA04367 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60290 DIRVNY7591SS[BISCAY2BAY5]5.510 KGS 484.00 26866.84"
+      }
+    ],
+    "total_payable": 0.0
+  },
+  {
+    "source_file": "doc_157.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3727,
+    "doc_number": "P29125",
+    "doc_date": "2026-01-04",
+    "counterparty": "PREMCO GLOBAL LIMITED",
+    "buyer_order_ref": "PO 1696/22.12.25",
+    "order_date": "2025-12-22",
+    "broker": "SELF",
+    "due_date": "2026-02-03",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04391",
+        "item_description_original": "70/68/2/140 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60313",
+        "shade": "BLUE",
+        "quantity": 3.0,
+        "uom": "KGS",
+        "unit_price": 484.0,
+        "amount": 40128.44,
+        "raw_line": "1 SA04391 70/68/2/140 NYLON TWT DYED Y54A0R2N5100NL60313 RGVNY7604SS [BLUE 3MIRA8G2E.9]10 KGS 484.00 40128.44"
+      }
+    ],
+    "total_payable": 42135.0
+  },
+  {
+    "source_file": "doc_158.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3735,
+    "doc_number": "P29130",
+    "doc_date": "2026-01-04",
+    "counterparty": "SARONG FABRICS",
+    "buyer_order_ref": "PO EMAIL/02.01.26",
+    "order_date": "2026-01-02",
+    "broker": "SHRUTI ENTERPRISES",
+    "due_date": "2026-01-08",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCB00196",
+        "item_description_original": "85/34/300 ROYAL WARP DYED",
+        "hsn_code": "54025210",
+        "lot_number": "VP152192",
+        "shade": "",
+        "quantity": 177.78,
+        "uom": "KGS",
+        "unit_price": 258.5,
+        "amount": 45956.13,
+        "raw_line": "1 DCB00196 85/34/300 ROYAL WARP DYED Y54A0R2N5210VP152192 DKFIVESTAR11 5 177.780 KGS 258.50 45956.13"
+      }
+    ],
+    "total_payable": 48013.0,
+    "discount_pct": 0.5,
+    "discount_amt": 229.78
+  },
+  {
+    "source_file": "doc_159.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3677,
+    "doc_number": "P29138",
+    "doc_date": "2026-01-04",
+    "counterparty": "SIDANA SILK MILLS PVT. LTD.",
+    "buyer_order_ref": "PO EMAIL/22.12.25",
+    "order_date": "2025-12-23",
+    "broker": "MUKESH R. MEHTA",
+    "due_date": "2026-01-08",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "DCN02985",
+        "item_description_original": "85/34/300 ROYAL WARP DYED",
+        "hsn_code": "54025210",
+        "lot_number": "VP154085",
+        "shade": "LT VIRAJ-13",
+        "quantity": 85.33,
+        "uom": "KGS",
+        "unit_price": 251.0,
+        "amount": 21417.83,
+        "raw_line": "1 DCN02985 85/34/300 ROYAL WARP DYED Y54A0R2N5210VP154085 LT VIRAJ-13 3 85.330 KGS 251.00 21417.83"
+      }
+    ],
+    "total_payable": 21929.0,
+    "discount_pct": 2.0,
+    "discount_amt": 428.36
+  },
+  {
+    "source_file": "doc_160.pdf",
+    "doc_type": "PURCHASE_ORDER",
+    "raw_text_length": 2454,
+    "doc_number": "DPY/00354/25-26",
+    "doc_date": "2026-01-17",
+    "counterparty": "RELIANCE INDUSTRIES LTD",
+    "payment_terms": "3 days",
+    "ordered_by": "VIPIN MEHTA",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "item_description_original": "126/34 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00354/25-2617",
+        "quantity": 40000.0,
+        "uom": "KGS",
+        "unit_price": 93.55,
+        "amount": 3742000.0,
+        "raw_line": "1 - 126/34 POY 54024600 POY/00354/25-2617-01-26 40000.000 KGS 93.55 3742000.00 0.00 3742000.00"
+      },
+      {
+        "sr_no": "2",
+        "item_description_original": "126/48 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00354/25-2617",
+        "quantity": 36000.0,
+        "uom": "KGS",
+        "unit_price": 93.55,
+        "amount": 3367800.0,
+        "raw_line": "2 - 126/48 POY 54024600 POY/00354/25-2617-01-26 36000.000 KGS 93.55 3367800.00 0.00 3367800.00"
+      },
+      {
+        "sr_no": "3",
+        "item_description_original": "160/48 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00354/25-2617",
+        "quantity": 16000.0,
+        "uom": "KGS",
+        "unit_price": 92.55,
+        "amount": 1480800.0,
+        "raw_line": "3 - 160/48 SD POY 54024600 POY/00354/25-2617-01-26 16000.000 KGS 92.55 1480800.00 0.00 1480800.00"
+      },
+      {
+        "sr_no": "4",
+        "item_description_original": "160/72 BRT POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00354/25-2617",
+        "quantity": 16000.0,
+        "uom": "KGS",
+        "unit_price": 94.3,
+        "amount": 1508800.0,
+        "raw_line": "4 - 160/72 BRT POY 54024600 POY/00354/25-2617-01-26 16000.000 KGS 94.30 1508800.00 0.00 1508800.00"
+      },
+      {
+        "sr_no": "5",
+        "item_description_original": "162/34 SD POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00354/25-2617",
+        "quantity": 16000.0,
+        "uom": "KGS",
+        "unit_price": 92.55,
+        "amount": 1480800.0,
+        "raw_line": "5 - 162/34 SD POY 54024600 POY/00354/25-2617-01-26 16000.000 KGS 92.55 1480800.00 0.00 1480800.00"
+      },
+      {
+        "sr_no": "6",
+        "item_description_original": "250/34 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00354/25-2617",
+        "quantity": 20000.0,
+        "uom": "KGS",
+        "unit_price": 89.55,
+        "amount": 1791000.0,
+        "raw_line": "6 - 250/34 POY 54024600 POY/00354/25-2617-01-26 20000.000 KGS 89.55 1791000.00 0.00 1791000.00"
+      },
+      {
+        "sr_no": "7",
+        "item_description_original": "250/48 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00354/25-2617",
+        "quantity": 16000.0,
+        "uom": "KGS",
+        "unit_price": 89.55,
+        "amount": 1432800.0,
+        "raw_line": "7 - 250/48 POY 54024600 POY/00354/25-2617-01-26 16000.000 KGS 89.55 1432800.00 0.00 1432800.00"
+      },
+      {
+        "sr_no": "8",
+        "item_description_original": "340/48 POY",
+        "hsn_code": "54024600",
+        "indent_no": "POY/00354/25-2617",
+        "quantity": 8000.0,
+        "uom": "KGS",
+        "unit_price": 89.05,
+        "amount": 712400.0,
+        "raw_line": "8 - 340/48 POY 54024600 POY/00354/25-2617-01-26 8000.000 KGS 89.05 712400.00 0.00 712400.00"
+      }
+    ],
+    "remarks": "RATE BASIC PLUS GST"
+  },
+  {
+    "source_file": "doc_161.pdf",
+    "doc_type": "TAX_INVOICE",
+    "raw_text_length": 3800,
+    "doc_number": "P29106",
+    "doc_date": "2026-01-01",
+    "counterparty": "WHITE ROSE TEXTILES LLP",
+    "buyer_order_ref": "PO 93/03.12.25",
+    "order_date": "2025-12-10",
+    "broker": "HO",
+    "due_date": "2026-01-16",
+    "line_items": [
+      {
+        "sr_no": "1",
+        "challan_no": "SA04349",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60072",
+        "shade": "BLACK",
+        "quantity": 1.0,
+        "uom": "KGS",
+        "unit_price": 340.0,
+        "amount": 69373.6,
+        "raw_line": "1 SA04349 111/2/80 NYLON TWT DYED YAR54N025100NL60072 DIRVNY7239 [BLACK] 1R0M0230041.00040049K3GS 340.00 69373.60"
+      },
+      {
+        "sr_no": "2",
+        "challan_no": "SA04350",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60099",
+        "shade": "BLACK",
+        "quantity": 2.0,
+        "uom": "KGS",
+        "unit_price": 340.0,
+        "amount": 118479.8,
+        "raw_line": "2 SA04350 111/2/80 NYLON TWT DYED YAR54N025100NL60099 DIRVNY7239 [BLACK] 2R0M0334081.04070049K3GS 340.00 118479.80"
+      },
+      {
+        "sr_no": "3",
+        "challan_no": "SA04351",
+        "item_description_original": "111/2/80 NYLON TWT DYED",
+        "hsn_code": "54025100",
+        "lot_number": "NL60149",
+        "shade": "BLACK",
+        "quantity": 1.0,
+        "uom": "KGS",
+        "unit_price": 340.0,
+        "amount": 117220.1,
+        "raw_line": "3 SA04351 111/2/80 NYLON TWT DYED YAR54N025100NL60149 DIRVNY7239 [BLACK] 1R9M0334041.07060549K3GS 340.00 117220.10"
+      }
+    ],
+    "total_payable": 320327.0
+  }
+]
